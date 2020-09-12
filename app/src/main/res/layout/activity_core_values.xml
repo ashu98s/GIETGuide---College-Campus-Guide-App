@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/design_button"
+    tools:context=".coreValues">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:layout_marginStart="5dp"
+                android:layout_marginEnd="5dp"
+                android:paddingTop="5dp"
+                android:id="@+id/view"
+                android:src="@drawable/core"
+                android:contentDescription="@string/todo21" />
+
+            <TextView
+                android:id="@+id/one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/custom_four"
+                android:text="@string/core"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/custom_four"
+                android:text="@string/core1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:padding="5dp"
+                android:textColor="#ffffff"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/custom_four"
+                android:text="@string/core2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/custom_four"
+                android:text="@string/core3"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/custom_four"
+                android:text="@string/core4"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/custom_four"
+                android:text="@string/core5"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/custom_four"
+                android:text="@string/core6"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/custom_four"
+                android:text="@string/core7"/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="@drawable/custom_style"
+    tools:context=".facility_7">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:background="@drawable/design_button"
+            android:id="@+id/view"
+            android:src="@drawable/facility7"
+            android:contentDescription="@string/todo85" />
+
+        <TextView
+            android:id="@+id/one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:background="@drawable/custom_five"
+            android:text="@string/f48"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/custom_four"
+            android:text="@string/f49"/>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/custom_four"
+            android:text="@string/f50"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/custom_four"
+            android:text="@string/f51"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

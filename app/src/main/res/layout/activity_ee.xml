@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ee">
+
+    <TabHost
+        android:id="@+id/tabHost"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TabWidget
+                android:id="@android:id/tabs"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/tab1"
+                    android:background="@drawable/custom_five"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+                    <ImageView
+                        android:id="@+id/imageview"
+                        android:src="@drawable/deptee"
+                        android:layout_width="fill_parent"
+                        android:layout_height="200dp"
+                        android:layout_marginEnd="5dp"
+                        android:layout_marginStart="5dp"
+                        android:layout_marginTop="5dp"
+                        android:scaleType="centerCrop"
+                        android:contentDescription="@string/todo49" />
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        >
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/textView1"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:text="@string/dept17"
+                                android:background="@drawable/custom_four"
+                                android:textAlignment="center"
+                                android:padding="5dp"
+                                android:layout_margin="5dp"
+                                android:textAppearance="?android:attr/textAppearanceLarge"
+                                android:textColor="#ffffff"
+                                android:textStyle="bold"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="5dp"
+                                />
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:padding="5dp"
+                                android:layout_margin="5dp"
+                                android:textColor="#ffffff"
+                                android:text="@string/dept19"
+                                android:background="@drawable/design_button"
+                                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                                />
+                            <TextView
+                                android:layout_marginTop="5dp"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/custom_four"
+                                android:text="@string/dept2"
+                                android:padding="5dp"
+                                android:layout_margin="5dp"
+                                android:textAlignment="center"
+                                android:textColor="#ffee"
+                                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                                android:textStyle="bold" />
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:padding="5dp"
+                                android:layout_margin="5dp"
+                                android:textColor="#ffffff"
+                                android:text="@string/dept20"
+                                android:background="@drawable/design_button"
+                                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                                />
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:padding="5dp"
+                                android:layout_margin="5dp"
+                                android:textColor="#ffffff"
+                                android:text="@string/dept21"
+                                android:background="@drawable/design_button"
+                                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                                />
+                            <TextView
+                                android:layout_marginTop="5dp"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/custom_four"
+                                android:text="@string/dept6"
+                                android:padding="5dp"
+                                android:layout_margin="5dp"
+                                android:textAlignment="center"
+                                android:textColor="#ffee"
+                                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                                android:textStyle="bold" />
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:padding="5dp"
+                                android:layout_margin="5dp"
+                                android:textColor="#ffffff"
+                                android:text="@string/dept22"
+                                android:background="@drawable/design_button"
+                                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                                />
+
+                        </LinearLayout>
+                    </ScrollView>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab2"
+                    android:background="#bbdfd9"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+
+                    <ScrollView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        tools:ignore="UselessParent">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@drawable/custom_four">
+
+                            <TextView
+                                android:id="@+id/textv"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/rounded_button"
+                                android:text="@string/dept7"
+                                android:textColor="#ffffff"
+                                android:layout_margin="5dp"
+                                android:padding="5dp"
+                                android:textAlignment="center"
+                                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                                android:textStyle="bold" />
+
+                            <ImageView
+                                android:id="@+id/image"
+                                android:layout_below="@id/textv"
+                                android:layout_width="200dp"
+                                android:layout_height="200dp"
+                                android:src="@drawable/eehod"
+                                android:foregroundGravity="center"
+                                android:layout_marginTop="50dp"
+                                android:background="@drawable/design_button"
+                                android:layout_centerHorizontal="true"
+                                android:layout_alignParentTop="true"
+                                android:contentDescription="@string/todo50" />
+
+                            <TextView
+                                android:id="@+id/text"
+                                android:layout_marginTop="5dp"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@drawable/custom_two"
+                                android:text="@string/dept18"
+                                android:textAlignment="center"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:layout_margin="5dp"
+                                android:layout_below="@+id/image"
+                                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                                />
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:padding="7dp"
+                                android:layout_margin="5dp"
+                                android:layout_below="@+id/text"
+                                android:layout_marginTop="5dp"
+                                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                                android:text="@string/dept23"
+                                android:background="@drawable/rounded_button"
+                                android:textColor="#ffffff"/>
+                        </RelativeLayout>
+                    </ScrollView>
+
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/tab3"
+                    android:background="#ffffff"
+                    android:layout_margin="5dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ListView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:id="@+id/listcse">
+
+
+                    </ListView>
+
+                </LinearLayout>
+
+
+
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+
+
+
+</RelativeLayout>

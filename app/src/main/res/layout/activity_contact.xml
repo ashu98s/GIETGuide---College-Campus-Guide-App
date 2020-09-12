@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".contact">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:id="@+id/view"
+            android:background="#052334"
+            android:src="@drawable/usconatct"
+            android:contentDescription="@string/todo128" />
+
+        <TextView
+            android:id="@+id/one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:background="@drawable/custom_five"
+            android:text="@string/rnd11"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/custom_four"
+            android:text="@string/rnd12"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:background="@drawable/custom_five"
+            android:text="@string/rnd13"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/custom_four"
+            android:text="@string/rnd14"/>
+
+        <TextView
+            android:id="@+id/location"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:drawableEnd="@drawable/arrow"
+            android:drawableRight="@drawable/arrow"
+            android:textAlignment="center"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:background="@drawable/custom_five"
+            android:text="@string/rnd15"/>
+
+
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>

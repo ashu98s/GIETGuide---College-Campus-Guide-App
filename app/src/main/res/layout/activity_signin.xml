@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/nestedScrollView"
+    android:orientation="vertical"
+    android:background="@drawable/backme1"
+    tools:context=".signin">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/signinpic"
+        android:contentDescription="@string/todo6" />
+
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="17dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/mail"
+        android:drawablePadding="12dp"
+        android:hint="@string/signup1"
+        android:layout_marginTop="50dp"
+        android:inputType="textEmailAddress"
+        android:maxLines="1"
+        android:padding="12dp"
+        android:textColor="@color/colorText"
+        android:textColorHint="@color/colorText" />
+
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginBottom="17dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/passcode"
+        android:drawablePadding="12dp"
+        android:hint="@string/signup2"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:padding="12dp"
+        android:textColor="@color/colorText"
+        android:textColorHint="@color/colorText" />
+
+
+
+
+    <Button
+        android:id="@+id/ButtonLogin"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="60dp"
+        android:background="@drawable/loginbtn"
+        android:padding="15dp"
+        android:text="@string/login"
+        android:onClick="signin_button"
+        android:textColor="@color/colorText"
+        android:textSize="20sp"
+        tools:targetApi="lollipop" />
+
+
+</LinearLayout>

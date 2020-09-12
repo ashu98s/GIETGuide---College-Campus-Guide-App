@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="ActivityTheme">
+  <item name="android:windowLayoutInDisplayCutoutMode">@null
+
+  </item>
+</style>
+
+</resources>

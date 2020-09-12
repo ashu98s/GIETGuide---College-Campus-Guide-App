@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp"
+    android:background="@drawable/custom_four"
+    tools:context=".placement">
+
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/tandp"
+        android:scaleType="centerCrop"
+        android:contentDescription="@string/todo90" />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/imageView">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/one"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:background="@drawable/custom_five"
+                android:text="@string/tnp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/design_button"
+                android:text="@string/tnp1"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:background="@drawable/custom_five"
+                android:text="@string/tnp2"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/design_button"
+                android:text="@string/tnp3"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:background="@drawable/custom_five"
+                android:text="@string/tnp4"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/design_button"
+                android:text="@string/tnp5"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:background="@drawable/custom_five"
+                android:text="@string/tnp6"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/design_button"
+                android:text="@string/tnp7"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:background="@drawable/custom_five"
+                android:text="@string/tnp8"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/design_button"
+                android:text="@string/tnp9"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:background="@drawable/custom_five"
+                android:text="@string/tnp10"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/design_button"
+                android:text="@string/tnp11"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textStyle="bold"
+                android:textAlignment="center"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+                android:background="@drawable/custom_five"
+                android:text="@string/tnp12"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:textColor="#ffffff"
+                android:padding="5dp"
+                android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+                android:background="@drawable/design_button"
+                android:text="@string/tnp13"/>
+
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="18dp"
+    android:paddingRight="18dp"
+    android:paddingBottom="16dp"
+    android:id="@+id/nestedScrollView"
+    android:background="@drawable/backme2"
+    tools:context=".signup">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="300dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/todo5"
+        android:src="@drawable/signupicon" />
+
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/editTextName"
+        android:hint="@string/signup"
+        android:textColorHint="@color/colorText"
+        android:inputType="text"
+        android:maxLines="1"
+        android:layout_marginBottom="17dp"
+        android:drawablePadding="12dp"
+        android:padding="10dp"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/username"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/colorText"
+         />
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/editTextEmail"
+        android:hint="@string/signup1"
+        android:textColorHint="@color/colorText"
+        android:inputType="textEmailAddress"
+        android:maxLines="1"
+        android:layout_marginBottom="17dp"
+        android:drawablePadding="12dp"
+        android:padding="10dp"
+        android:background="@drawable/mail"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/colorText"
+       />
+
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/editTextPassword"
+        android:hint="@string/signup2"
+        android:textColorHint="@color/colorText"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:layout_marginBottom="17dp"
+        android:drawablePadding="12dp"
+        android:padding="10dp"
+        android:background="@drawable/passcode"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/colorText"
+        />
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/editConfirmPassword"
+        android:hint="@string/signup3"
+        android:textColorHint="@color/colorText"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:layout_marginBottom="17dp"
+        android:drawablePadding="12dp"
+        android:padding="10dp"
+        android:background="@drawable/passcode"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textColor="@color/colorText"
+       />
+
+
+
+
+
+    <Button tools:targetApi="lollipop"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/ButtonRegister"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/loginbtn"
+        android:textColor="@color/colorText"
+        android:text="@string/register"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="20sp"
+        android:onClick="signup_button"
+        android:padding="6dp"
+        />
+
+
+</LinearLayout>

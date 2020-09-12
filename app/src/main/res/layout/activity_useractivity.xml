@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backgr"
+    android:orientation="vertical"
+    tools:context=".useractivity">
+
+    <ImageView
+        android:id="@+id/a"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="45dp"
+        android:src="@drawable/education"
+        android:layout_gravity="center"
+        android:contentDescription="@string/todo3" />
+
+    <TextView
+        android:id="@+id/textViewLinkRegister"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/user"
+        android:textStyle="bold"
+        android:layout_marginTop="100dp"
+        android:textColor="#3F51B5"
+        android:textSize="20sp"
+
+        />
+
+    <Button
+        android:id="@+id/ButtonRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:background="@drawable/custom_three"
+        android:onClick="register"
+        android:padding="6dp"
+        android:text="@string/register"
+        android:textColor="@color/colorText"
+        android:textSize="20sp"
+        tools:targetApi="lollipop" />
+
+    <TextView
+        android:id="@+id/textViewLinkLogin"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/user1"
+        android:textColor="#3F51B5"
+        android:textSize="20sp"
+        android:textStyle="bold"
+         />
+
+    <Button
+        android:id="@+id/ButtonLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="30dp"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/custom_three"
+        android:onClick="login"
+        android:padding="6dp"
+        android:text="@string/login"
+        android:textColor="@color/colorText"
+        android:textSize="20sp"
+        tools:targetApi="lollipop" />
+
+
+</LinearLayout>

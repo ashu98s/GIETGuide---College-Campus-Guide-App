@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/drawer"
+    android:background="@drawable/back"
+    tools:context=".register">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="130dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/gietlogo"
+        android:contentDescription="@string/todo3" />
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView"
+        android:layout_centerHorizontal="true"
+        android:text="@string/name"
+        android:textAlignment="center"
+        android:textColor="#400"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/student_btn"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:onClick="student_click"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="269dp"
+        android:drawableStart="@drawable/student"
+        android:drawableLeft="@drawable/student"
+        android:background="@drawable/rounded_button"
+        android:text="@string/student"
+        android:textColor="#ffee"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/teacher_btn"
+        android:layout_width="250dp"
+        android:layout_height="70dp"
+        android:onClick="teacher_click"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="186dp"
+        android:background="@drawable/rounded_button"
+        android:text="@string/teacher"
+        android:drawableLeft="@drawable/teacher"
+        android:drawableStart="@drawable/teacher"
+        android:textColor="#ffee"
+        android:textSize="25sp" />
+
+    <Button
+        android:id="@+id/other_btn"
+        android:layout_width="250dp"
+        android:onClick="other_click"
+        android:layout_height="70dp"
+        android:drawableStart="@drawable/others"
+        android:drawableLeft="@drawable/others"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="101dp"
+        android:background="@drawable/rounded_button"
+        android:text="@string/other"
+        android:textColor="#ffee"
+        android:textSize="25sp" />
+    </RelativeLayout>
+
+    <android.support.design.widget.NavigationView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:menu="@menu/main_menu"
+        app:itemIconTint="@android:color/holo_red_dark"
+        app:headerLayout="@layout/header"
+        android:layout_gravity="start"
+        android:id="@+id/nav_drawer"
+        android:background="#ffffff">
+
+    </android.support.design.widget.NavigationView>
+
+</android.support.v4.widget.DrawerLayout>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/menu3"
+        android:icon="@drawable/about"/>
+    <item
+        android:id="@+id/share"
+        android:title="@string/menu4"
+        android:icon="@drawable/share"/>
+    <item
+        android:id="@+id/rate"
+        android:title="@string/menu5"
+        android:icon="@drawable/rating"/>
+    <item
+        android:id="@+id/developers"
+        android:title="@string/menu7"
+        android:icon="@drawable/developer"/>
+
+    <item
+        android:id="@+id/exit"
+        android:title="@string/menu6"
+        android:icon="@drawable/exit"/>
+
+
+</menu>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/custom_style"
+    android:padding="5dp"
+    tools:context=".Admission">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginEnd="5dp"
+            android:paddingTop="5dp"
+            android:id="@+id/view"
+            android:src="@drawable/collegeadm"
+            android:contentDescription="@string/todo91" />
+
+        <TextView
+            android:id="@+id/one"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:background="@drawable/custom_five"
+            android:text="@string/ad"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/design_button"
+            android:text="@string/ad2"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:text="@string/ad3"
+            android:textSize="25sp"
+            android:id="@+id/university"
+            android:onClick="btech"
+            android:layout_margin="5dp"
+            android:drawableEnd="@drawable/arrow"
+            android:drawableRight="@drawable/arrow"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:background="@drawable/custom_five"
+            tools:ignore="RtlHardcoded" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:text="@string/ad5"
+            android:textSize="25sp"
+            android:id="@+id/academic"
+            android:layout_margin="5dp"
+            android:onClick="diploma"
+            android:drawableEnd="@drawable/arrow"
+            android:drawableRight="@drawable/arrow"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/custom_five"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:text="@string/ad4"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:onClick="mtech"
+            android:id="@+id/courses"
+            android:drawableEnd="@drawable/arrow"
+            android:drawableRight="@drawable/arrow"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/custom_five"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="75dp"
+            android:text="@string/ad16"
+            android:textSize="25sp"
+            android:layout_margin="5dp"
+            android:onClick="helpline"
+            android:drawableEnd="@drawable/arrow"
+            android:drawableRight="@drawable/arrow"
+            android:layout_marginTop="10dp"
+            android:textColor="#ffffff"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/custom_five"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            android:background="@drawable/design_button"
+            android:text="@string/ad1"/>
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

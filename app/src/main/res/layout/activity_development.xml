@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/custom_seven"
+    tools:context=".development">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/fdp"
+            android:contentDescription="@string/todo32" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_four"
+            android:padding="5dp"
+            android:text="@string/facu1"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:layout_margin="5dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="@string/facu"
+            android:textColor="#ffffff"
+            android:layout_margin="5dp"
+            android:background="@drawable/custom_four"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_four"
+            android:padding="5dp"
+            android:text="@string/facu2"
+            android:textAlignment="center"
+            android:textColor="#ffffff"
+            android:layout_margin="5dp"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="@string/facu3"
+            android:textColor="#ffffff"
+            android:layout_margin="5dp"
+            android:background="@drawable/custom_four"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            />
+
+
+    </LinearLayout>
+
+
+</ScrollView>

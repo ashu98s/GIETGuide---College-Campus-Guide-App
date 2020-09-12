@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".notice">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="#673AB7"
+        android:src="@drawable/ntc"
+        android:contentDescription="@string/todo125" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="@string/c37"
+        android:textSize="25sp"
+        android:id="@+id/university"
+        android:onClick="one"
+        android:layout_margin="5dp"
+        android:drawableEnd="@drawable/arrow"
+        android:drawableRight="@drawable/arrow"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/custom_five"
+        tools:ignore="RtlHardcoded" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="@string/c38"
+        android:textSize="25sp"
+        android:id="@+id/academic"
+        android:layout_margin="5dp"
+        android:onClick="two"
+        android:drawableEnd="@drawable/arrow"
+        android:drawableRight="@drawable/arrow"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffffff"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:background="@drawable/custom_five"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="@string/c39"
+        android:textSize="25sp"
+        android:layout_margin="5dp"
+        android:onClick="three"
+        android:id="@+id/courses"
+        android:drawableEnd="@drawable/arrow"
+        android:drawableRight="@drawable/arrow"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffffff"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:background="@drawable/custom_five"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="@string/c40"
+        android:textSize="25sp"
+        android:layout_margin="5dp"
+        android:onClick="four"
+        android:drawableEnd="@drawable/arrow"
+        android:drawableRight="@drawable/arrow"
+        android:layout_marginTop="10dp"
+        android:textColor="#ffffff"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+        android:background="@drawable/custom_five"/>
+
+</LinearLayout>

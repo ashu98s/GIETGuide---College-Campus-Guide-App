@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.proto.gietguide">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <uses-feature android:name="android.hardware.sensor.compass"
+        android:required="true" />
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:resizeableActivity="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/mobile"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/mobile_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:ignore="GoogleAppIndexingWarning">
+        <activity android:name=".Developer"/>
+        <activity android:name=".notice1" />
+        <activity android:name=".about_app" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".register" />
+        <activity android:name=".useractivity" />
+        <activity android:name=".signin" />
+        <activity android:name=".signup" />
+        <activity
+            android:name=".HomeActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity android:name=".oneActivity" />
+        <activity android:name=".aboutUs" />
+        <activity android:name=".trust" />
+        <activity android:name=".msgOne" />
+        <activity android:name=".msgTwo" />
+        <activity android:name=".msgThree" />
+        <activity android:name=".coreValues" />
+        <activity android:name=".twoActivity" />
+        <activity android:name=".academic" />
+        <activity android:name=".position" />
+        <activity android:name=".courses" />
+        <activity android:name=".regulations" />
+        <activity android:name=".awards" />
+        <activity android:name=".teaching" />
+        <activity android:name=".calender" />
+        <activity android:name=".route" />
+        <activity android:name=".publications" />
+        <activity android:name=".development" />
+        <activity android:name=".seminar" />
+        <activity android:name=".department" />
+        <activity android:name=".ComputerSc" />
+        <activity android:name=".Mechanical" />
+        <activity android:name=".ee" />
+        <activity android:name=".ece" />
+        <activity android:name=".civilEngg" />
+        <activity android:name=".eee" />
+        <activity android:name=".cseMtech" />
+        <activity android:name=".mshMtech" />
+        <activity android:name=".pedMtech" />
+        <activity android:name=".StructureMtech" />
+        <activity android:name=".Facility" />
+        <activity android:name=".facility_1" />
+        <activity android:name=".facility_2" />
+        <activity android:name=".facility_3" />
+        <activity android:name=".facility_4" />
+        <activity android:name=".facility_5" />
+        <activity android:name=".facility_6" />
+        <activity android:name=".facility_7" />
+        <activity android:name=".facility_8" />
+        <activity android:name=".facility_9" />
+        <activity android:name=".facility_10" />
+        <activity android:name=".facility_11" />
+        <activity android:name=".placement" />
+        <activity android:name=".Admission" />
+        <activity android:name=".admission1" />
+        <activity android:name=".admission2" />
+        <activity android:name=".admission3" />
+        <activity android:name=".admission4" />
+        <activity android:name=".Fest" />
+        <activity android:name=".Club" />
+        <activity android:name=".club1" />
+        <activity android:name=".club2" />
+        <activity android:name=".club3" />
+        <activity android:name=".club4" />
+        <activity android:name=".club5" />
+        <activity android:name=".club6" />
+        <activity android:name=".club7" />
+        <activity android:name=".club8" />
+        <activity android:name=".club9" />
+        <activity android:name=".club10" />
+        <activity android:name=".club11" />
+        <activity android:name=".club12" />
+        <activity android:name=".club13" />
+        <activity android:name=".club14" />
+        <activity android:name=".notice" />
+        <activity android:name=".rndActivity" />
+        <activity android:name=".contact" />
+    </application>
+
+</manifest>

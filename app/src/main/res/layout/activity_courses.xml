@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/custom_five"
+    tools:context=".courses">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/btech"
+            android:textSize="20sp"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_three"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:text="@string/btech1"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mtech"
+            android:textSize="20sp"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_three"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:text="@string/mtech1"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/diploma"
+            android:textSize="20sp"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:layout_margin="5dp"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/custom_three"
+            android:layout_margin="5dp"
+            android:padding="5dp"
+            android:textColor="#ffffff"
+            android:text="@string/diploma1"
+            android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
+            />
+    </LinearLayout>
+
+</ScrollView>

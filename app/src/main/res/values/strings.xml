@@ -1,0 +1,1274 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GIETGuide</string>
+
+    <!--For image content description-->
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="todo9">TODO</string>
+    <string name="todo10">TODO</string>
+    <string name="todo11">TODO</string>
+    <string name="todo12">TODO</string>
+    <string name="todo13">TODO</string>
+    <string name="todo14">TODO</string>
+    <string name="todo15">TODO</string>
+    <string name="todo16">TODO</string>
+    <string name="todo17">TODO</string>
+    <string name="todo18">TODO</string>
+    <string name="todo19">TODO</string>
+    <string name="todo20">TODO</string>
+    <string name="todo21">TODO</string>
+    <string name="todo22">TODO</string>
+    <string name="todo23">TODO</string>
+    <string name="todo24">TODO</string>
+    <string name="todo25">TODO</string>
+    <string name="todo26">TODO</string>
+    <string name="todo27">TODO</string>
+    <string name="todo28">TODO</string>
+    <string name="todo29">TODO</string>
+    <string name="todo30">TODO</string>
+    <string name="todo32">TODO</string>
+    <string name="todo31">TODO</string>
+    <string name="todo33">TODO</string>
+    <string name="todo34">TODO</string>
+    <string name="todo35">TODO</string>
+    <string name="todo36">TODO</string>
+    <string name="todo37">TODO</string>
+    <string name="todo38">TODO</string>
+    <string name="todo39">TODO</string>
+    <string name="todo40">TODO</string>
+    <string name="todo41">TODO</string>
+    <string name="todo42">TODO</string>
+    <string name="todo43">TODO</string>
+    <string name="todo44">TODO</string>
+    <string name="todo45">TODO</string>
+    <string name="todo46">TODO</string>
+    <string name="todo47">TODO</string>
+    <string name="todo48">TODO</string>
+    <string name="todo49">TODO</string>
+    <string name="todo50">TODO</string>
+    <string name="todo51">TODO</string>
+    <string name="todo52">TODO</string>
+    <string name="todo53">TODO</string>
+    <string name="todo54">TODO</string>
+    <string name="todo55">TODO</string>
+    <string name="todo56">TODO</string>
+    <string name="todo57">TODO</string>
+    <string name="todo58">TODO</string>
+    <string name="todo59">TODO</string>
+    <string name="todo60">TODO</string>
+    <string name="todo61">TODO</string>
+    <string name="todo62">TODO</string>
+    <string name="todo63">TODO</string>
+    <string name="todo64">TODO</string>
+    <string name="todo65">TODO</string>
+    <string name="todo66">TODO</string>
+    <string name="todo67">TODO</string>
+    <string name="todo68">TODO</string>
+    <string name="todo69">TODO</string>
+    <string name="todo70">TODO</string>
+    <string name="todo71">TODO</string>
+    <string name="todo72">TODO</string>
+    <string name="todo73">TODO</string>
+    <string name="todo74">TODO</string>
+    <string name="todo75">TODO</string>
+    <string name="todo76">TODO</string>
+    <string name="todo77">TODO</string>
+    <string name="todo78">TODO</string>
+    <string name="todo79">TODO</string>
+    <string name="todo80">TODO</string>
+    <string name="todo81">TODO</string>
+    <string name="todo82">TODO</string>
+    <string name="todo83">TODO</string>
+    <string name="todo84">TODO</string>
+    <string name="todo85">TODO</string>
+    <string name="todo86">TODO</string>
+    <string name="todo87">TODO</string>
+    <string name="todo88">TODO</string>
+    <string name="todo89">TODO</string>
+    <string name="todo90">TODO</string>
+    <string name="todo91">TODO</string>
+    <string name="todo92">TODO</string>
+    <string name="todo93">TODO</string>
+    <string name="todo94">TODO</string>
+    <string name="todo95">TODO</string>
+    <string name="todo96">TODO</string>
+    <string name="todo97">TODO</string>
+    <string name="todo98">TODO</string>
+    <string name="todo99">TODO</string>
+    <string name="todo100">TODO</string>
+    <string name="todo101">TODO</string>
+    <string name="todo102">TODO</string>
+    <string name="todo103">TODO</string>
+    <string name="todo104">TODO</string>
+    <string name="todo105">TODO</string>
+    <string name="todo106">TODO</string>
+    <string name="todo107">TODO</string>
+    <string name="todo108">TODO</string>
+    <string name="todo109">TODO</string>
+    <string name="todo110">TODO</string>
+    <string name="todo111">TODO</string>
+    <string name="todo112">TODO</string>
+    <string name="todo113">TODO</string>
+    <string name="todo114">TODO</string>
+    <string name="todo115">TODO</string>
+    <string name="todo116">TODO</string>
+    <string name="todo117">TODO</string>
+    <string name="todo118">TODO</string>
+    <string name="todo119">TODO</string>
+    <string name="todo120">TODO</string>
+    <string name="todo121">TODO</string>
+    <string name="todo122">TODO</string>
+    <string name="todo123">TODO</string>
+    <string name="todo124">TODO</string>
+    <string name="todo125">TODO</string>
+    <string name="todo126">TODO</string>
+    <string name="todo127">TODO</string>
+    <string name="todo128">TODO</string>
+
+    <!--For image content description-->
+
+    <!-- for main menu file -->
+    <string name="menu"> Setting </string>
+    <string name="menu1"> Gandhi Institute for Education &amp; Technology </string>
+    <string name="menu2"> Bhubaneswar </string>
+    <string name="menu3"> About </string>
+    <string name="menu4"> Share </string>
+    <string name="menu5"> Rate Us </string>
+    <string name="menu6"> Exit </string>
+    <string name="menu7"> Developer </string>
+    <!-- for main menu file -->
+
+    <!-- normal string name -->
+    <string name="student"> Student </string>
+    <string name="teacher"> Teacher </string>
+    <string name="other"> Others </string>
+    <string name="name"> GIET POCKET APP </string>
+    <string name="open"> open </string>
+    <string name="close"> close </string>
+    <string name="user"> No account yet ? Create one </string>
+    <string name="user1"> Already a member ! Login </string>
+    <string name="register"> Register</string>
+    <string name="login"> Login </string>
+    <string name="signup"> Name </string>
+    <string name="signup1"> Email </string>
+    <string name="signup2"> Password </string>
+    <string name="signup3"> Confirm Password </string>
+    <string name="gandhi"> Gandhi Institute for Education &amp; Technology, Bhubaneswar </string>
+    <string name="ab"> ABOUT US </string>
+
+    <!-- normal string name -->
+
+    <!-- Home Activity -->
+    <string name="home">About us</string>
+    <string name="t1"> About GIET </string>
+    <string name="about"> WELCOME TO GIET </string>
+    <string name="about1"> ABOUT GIET </string>
+    <string name="t2"> Trust </string>
+    <string name="t3"> Chairman\'s Message </string>
+    <string name="t4"> ViceChairman\'s Message  </string>
+    <string name="t5"> Principal\'s Message </string>
+    <string name="t6"> Core Values </string>
+
+    <string name="home1">Academic</string>
+    <string name="home2">Facility</string>
+    <string name="home3">T &amp; P</string>
+    <string name="home4">Admission</string>
+    <string name="home5">Fest</string>
+    <string name="home6">clubs</string>
+    <string name="home7">Notice</string>
+    <string name="home8">R &amp; D</string>
+    <string name="home9">Contact </string>
+    <string name="home10">Department</string>
+
+    <!-- Home Activity -->
+
+    <!-- Long text -->
+    <string name="l1"> Gandhi Institute for Education &amp; Technology (GIET) is a fast growing technical institute, situated on the Southern belt of the capital city of Odisha, Bhubaneswar. It is established in the year 2009 with the most promising task of imparting high quality technical education to its student. It is also an ISO 9001:2008 certified Institute with the approval of AICTE, New Delhi, Govt. of Odisha. Its campus is rich in natural ambience and scenic beauty. The Institute keeps growing each year with a goal to excel and continue to enrich with new feathers to its cap.\n\n
+                       The Institute works with a mission to expand human knowledge beneficial to society through inclusive education, integrated with application and research. It strives to investigate on the challenging basic problems faced by science &amp; technology in an Inter-disciplinary atmosphere and urges to educate its student to reach their destination, making them come up qualitatively and creatively and to contribute fruitfully. This is not only its objective but also the ultimate path to move on with truth and brilliance towards success.</string>
+    <string name="l2"> The main function of GIET is not to create degree holders in Engineering but to develop the spirit of learning and acquiring latest skills. </string>
+    <string name="l3"> QUICK FACTS\n\n
+                        1. The Institute offers 06 undergraduate, 04 postgraduate, 03 Diploma programmers.\n\n
+                        2. A 30-acre eco-friendly campus with over 6.80 lakh sq.ft built-up space.\n\n
+                        3. Over 2800 students, nearly one-third of them are girls.\n\n
+                        4. Students are from 7 states.\n\n
+                        5. Faculties of GIET are from IIT and NIT backgrounds.\n\n
+                        6. Zero loss of Academics.\n\n
+                        7. Ragging free campus.\n\n
+                        8. Regular weekend activities.\n\n
+                        9. Periodic seminar or conferences and workshops.\n\n
+                        10. Wi-Fi campus.\n\n
+                        11. Air conditioned library.\n\n
+                        12. Highest placement record.\n\n
+                        13. Regular Guest Lectures.\n\n
+                        14. Active technical student chapters.</string>
+    <string name="Mission">MISSION\n\n
+    * To provide the best infrastructure in technical education in the stage along with efficient, knowledge and inspiring Faculty members to facilitate and provide quality education.\n\n
+    * To transform the students into global citizens through the development of their analytical thinking, creative instincts, physical growth and imbibing a sense of aesthetics and fairness.\n\n
+    * To prepare the students to become real employers and create wealth, rather than to make them just employable.</string>
+    <string name="vision">VISION\n\n
+    * To foster prosperity through technological experience by means of education, innovation and collaborative research and facilitate it\'s growth to be a premier technical institution of India.\n\n
+    * To be recognized as a national leader in Engineering Education and research and the application of acquired knowledge for the benefit of Indian society in particular and the whole world in general.</string>
+    <string name="satya"> Dr. Satya Prakash Panda </string>
+    <string name="satya1"> To embark on a journey of success one needs the tools of preparedness, foresight and strategy. These lead to the path of growth and high quality. It is imperative to combine these three forces in education, where every student acts like a pivot tilting the pan balance of life in favor of good career. We are an institution that combines scientific engineering, financial, managerial and operational education and resources to rejuvenate your life and give an impetus to help you to embrace a career full of success. Gearing up for the future, we have the key success factors necessary to withstand the winds of change. \n\n
+    The encouragement to build a highly skilled and creative team of qualified and experienced faculty, is reinforced by the state-of-the-art infrastructure.\n\n
+     Our well-recognized presence with a strong portfolio in education is being recognized countrywide. The success and eminence of GIET began as the dream of one man extended to be transformed into the dream of many. We strive to accomplish our dreams and goals to bring greater affluence in the future.\n\n
+    Dear Parents, We have put our heart and soul in making GIET centre of technical education. The rich infrastructure in terms of a sprawling campus.</string>
+    <string name="vc">vicechairman</string>
+    <string name="prakash">Prof. Jyoti Prakash Mishra</string>
+    <string name="prakash1">In the emerging highly competitive world, there is obvious need to produce dynamic minds that can adapt to the changing scenario and complex situations and are innovative enough to face the diverse challenges effectively. Gandhi Institute for Education and Technology (GIET) is truly emerging as the nurturing ground for leadership. It is becoming synonymous with practical, industry-focussed education and is attracting students across the country. Since the mission of the GIET is to impart quality education, it constantly strives to attract good faculty, good students, provides good infrastructure and purposeful supportive environment in our Institution. I warmly welcome the aspiring students into the GIET fraternity. I hope you have a tremendous learning and joyful time at GIET.\n\n
+    Our well-recognized presence with a strong portfolio in education is being recognized countrywide. The success and eminence of GIET began as the dream of one man extended to be transformed into the dream of many. We strive to accomplish our dreams and goals to bring greater affluence in the future.
+    </string>
+    <string name="mohan">Dr. Mohan Charan Panda</string>
+    <string name="mohan1">  An ideal education is the one which not only empowers the student with essential tools for survival in this competitive and ever changing world, but also aims at achieving the development of character without which a man though may be useful to himself, would not be useful to the society. We at Gandhi Institute for Education &amp; Technology take lot of care to ensure that the qualities of hard work, discipline, value system and obligation towards society and nation are imbibed in our students.\n\n
+    Our college offers excellent academic facilities through its library, Labs, information technology, industrial visits, etc. Our experienced faculty at Gandhi Institute for Education &amp; Technology helps in developing a critical and analytical thinking in the students. Our emphasis would always be on helping our students create and keep an open minded attitude for better learning, understanding and exploration of technical knowledge. Our team of expert would check for the latest skills requirement in the current scenario and include it in the course of teaching.\n\n
+    I am sure our students would do remarkable progress in which ever fields they choose and make us proud.
+</string>
+    <string name="core">CORE VALUES\n\n
+    (1) Leadership and Cultural heritage\n
+    (2) Honesty and Integrity\n
+    (3)Autonomy of Thought and Expression\n
+    (4) Excellence\n
+    (5) Accountability and Transparency\n
+    (6) Encouragement\n
+    (7) Social Responsibility</string>
+    <string name="core1">LEADERSHIP AND CULTURAL HERITAGE OF EDUCATION\n\n
+    Gandhi Institute for Education &amp; Technology, established as early as in 2009, for the noble cause of Technical Education in India by Dr. Satya Prakash Panda. He is an eminent educationalist &amp; social reformer. He was an invaluable gem in the history of Odisha, he worked tirelessly for education in various Districts of Odisha. Education to all regardless of caste and creed was one of his most significant priorities. In our Institute we follow the noble practices established by our great leader and as we know Leader decide the destiny we are blessed to have a leadership and a rich cultural heritage which is totally focused on the noble cause of Quality Education.</string>
+    <string name="core2">HONESTY &amp; INTEGRITY\n\n
+    The foreword of our society is "Education for all"\n
+    Keeping this in mind we are primarily focused on promoting the highest standards of trustworthiness and honesty to guarantee that all members of the community recognize the intrinsic advantages of living these beliefs and to ensure that academic execution is assessed dependably and compensated reasonably. In this Institute we totally believe in conduction of all activities in an ethical manner. We are committed to practices that are fair, honest and objective in dealing with students, faculty members, Staff and stake holders at all levels of Institution.</string>
+    <string name="core3">FREEDOM OF THOUGHT AND EXPRESSION\n\n
+    The guarantee of fundamental freedom is very important aspects of our democracy and carefully guarded by citizens and court. We in our Institute Totally believe that an access to free expression is vital both to support the development process and as a development goal in its own right. We believe that freedom of thought and expression is necessary, as without this overall development of Individual cannot be completed. Everybody is valued and judged in view of their commitments and execution instead of gender, race, religion, physical capacities, sexual character or financial condition. Commitment extends to all level of our campus to foster a climate of ethical conduct, respect, responsibility and Trust.</string>
+    <string name="core4">EXCELLENCE\n\n
+    At our Institute we endeavour to create and seek after higher benchmarks by exhibiting quality in staffing, facilities, programs, and services by promoting continuous improvement, encourage interdepartmental collaboration, encourage creativity, innovation, and risk-taking among students as well as faculty. If we are to be both remain relevant and attract the highest calibre of students, faculty, and staff, we must ensure that our community is inclusive and open to all viewpoints. A culture of excellence must pervade the Institution in both academic and non-academic areas.</string>
+    <string name="core5">ACCOUNTABILITY AND TRANSPARENCY\n\n
+    We are engaged towards developing an atmosphere where every member takes responsibility for personal and professional growth and development. We continuously assess and enhance our policies, establish and impart characterized and explained objectives and targets, ensure that our work increases the value of the college and society. We believe in having complete transparency at all levels of hierarchy to promote a healthier working atmosphere to all.</string>
+    <string name="core6">ENCOURAGEMENT\n\n
+    Encouragement is provided for critical and quantitative thinking, effective communication, ethical decision making and social obligation in our students. . Motivating your employees is vital to any business and we believe in the value of positive motivation and encouragement. A motivated workforce means a highly productive staff, all of which will help you achieve your organizational goals and vision, and for that we as an Institute work in the direction of a motivated environment for staff and students.</string>
+    <string name="core7">SOCIAL RESPONSIBILITY\n\n
+    We are focused on promoting the sense of social responsibilities in students by involving them in various social activities. This helps in creating awareness about latest and important social issues in individual and gives them a broader perspective of understanding the causes and possible solutions related to various social issues.</string>
+    <string name="academics">University</string>
+    <string name="a1">Academic Positions</string>
+    <string name="a2">Courses</string>
+    <string name="a3">Academic Regulations</string>
+    <string name="a4">Achievements</string>
+    <string name="a5">Teaching &amp; Learning</string>
+    <string name="a6">Academic Calender</string>
+    <string name="a7">Bus Route</string>
+    <string name="a8">Publications</string>
+    <string name="a9">Faculty Development Prog.</string>
+    <string name="a10">Seminar &amp; Conference</string>
+    <string name="a11"> UNIVERSITY </string>
+    <string name="a12"> The Biju Patnaik University of Technology ( BPUT ), Orissa, with its head-quarters in Rourkela came into being in November 2002 through an act of the Government. The main objective of instituting the University was to ensure a high quality of students coming out of the technical colleges through a common curriculum and uniform evaluation. Today, the University has 137 colleges, both constituent and affiliated, with around 100,000 students. The disciplines include engineering and architecture, business management, computer studies and pharmacy. Several of these offer both undergraduate and post graduate studies.\n\n
+                        The Biju Patnaik University of Technology took its birth in the year 2003 with the laying of foundation stone on the auspicious hand of late Dr.A.P.J. Abdul Kalam, the hon’ble President of India. Riding on the chariot of Public-Private Partnership, the University has grown to-day to a big family of 137 colleges and covers all gamut of technical education systems of the country. To-day it is a proud university who offers Ph.D, Master Degree and Undergraduate Degrees in the areas of engineering, management, pharmacy, architecture, planning and many more. To-day it dreams to introduce B-Voc, M-Voc, and Ph.D-Voc to become an effective partner in the national mission skill development. The unique ICT based training programs of the university to reach the unreached is one of the steps out of many of its initiatives of Digital BPUT. In the changing scenario, the university has adopted a model of PPIP(Public-private-Industry-partnership) to make the education more meaningful and relevant, The Unique student and industry friendly unique curriculum of the university introduced recently will help the students and industry to meet the expectations.\n\n
+                        The university believes in “Think Good, Do Good, Be Good “ philosophy and offers education as a service but not as a business. The dynamic model adopted in the university to growing towards its goal for quality in technical education and also provides a true platform to students for quality learning .the big-Dream of the university along with the qualified faculty member, skilled staff and excellent infrastructure make the university the most sought for place of technical education.
+                        </string>
+    <string name="a13"> RECOGNITIONS </string>
+    <string name="a14"> AICTE,New Delhi,India </string>
+    <string name="a15"> BPUT, Rourkela, Odisha </string>
+    <string name="a16"> SCTE &amp; VT, Bhubaneswar, Odisha </string>
+    <string name="a17"> VISION </string>
+    <string name="a18"> MISSION </string>
+    <string name="a19"> (a) To be a world class brand name for providing technical man power needed in industry and academia.\n\n
+                        (b) To create wealth and prosperity in the society through application of technical knowledge. </string>
+    <string name="a20" tools:ignore="TypographyOther"> (a) Facilitate making the places of teaching intellectually stimulating and emotionally pleasurable for the students and faculty.\n\n
+                        (b) Ensure proficiency in students in their domain of study as well as in soft skills (IT and Communicative English).\n\n
+                        (c) Establish world class Centres in Higher Studies and Research. </string>
+    <string name="a21"> EXAM INFO. </string>
+    <string name="a22"> http://www.bput.ac.in </string>
+    <string name="a23"> http://www.bputexam.in </string>
+    <string name="a24"> Name </string>
+    <string name="a25"> Description </string>
+    <string name="btech"> B.Tech </string>
+    <string name="btech1">  (1) Computer Science &amp; Engineering\n\n
+                            (2) Civil Engineering\n\n
+                            (3) Mechanical Engineering\n\n
+                            (4) Electrical Engineering\n\n
+                            (5) Electrical &amp; Electronics Engineering\n\n
+                            (6) Electronics &amp; Communication Engineering</string>
+    <string name="mtech">M.Tech</string>
+    <string name="mtech1">  (1) Communication System Engineering\n\n
+                            (2) Mechanical System &amp; Design\n\n
+                            (3) Power Electronics &amp; Drives\n\n
+                            (4) Structural Engineering</string>
+    <string name="diploma"> Diploma</string>
+    <string name="diploma1">    (1) Civil Engineering\n\n
+                                (2) Electrical Engineering\n\n
+                                (3) Mechanical Engineering</string>
+
+    <string name="btech2"> B.Tech rule &amp; regulations </string>
+    <string name="regulations">rule</string>
+    <string name="btech3">  GIET offers B.Tech in a good number of disciplines like Auto-mobile, Civil, Computer Science, Electrical, Electronics, Mechanical etc. The courses are approved by AICTE, Delhi and affiliated to BPUT, Rourkela. The student can pursue financial assistance from various scholarship schemes like Medhabruti, Prerana, Minority Community Scholarship etc. as per their eligibility. It also accepts students with TFW quota. The main aim of GIET is not only to produce technically competent students but also encourage society to take steps towards the reforming of trends and technologies that draw lines between duty and dream. It allows students to customize their programs to meet their objectives and particular career goal.\n\n
+                            The labs are well equipped with modern machineries and are supervised by experienced faculties and staffs. We have highly qualified and experienced team of professors who encourage students for their all round development. GIET strongly implements the Proctor System so as to support the students in every way. GIET is highly reputed among the Engineering colleges and is recognised as the best emerging engineering college in 2015. Our continuous team effort, synchronized teaching-learning process, timely and proper guidance not only brings the best out of students but also helps them see though the opportunities in challenging jobs.\n\n
+                            GIET is in terms with a good number of recruiters and has an unprecedented record of 100% placement with lucrative packages. Moreover, we take our students as our privilege rather responsibility. </string>
+
+    <string name="mtech2"> M.Tech rule &amp; regulations </string>
+    <string name="mtech3">  In this fast emerging era of technology, higher education is the best option to expose oneself to the vast possibilities of tomorrow. To become a globally recognized body of Education GIET is imparting high quality result oriented technical education and motivating students to discover themselves in the process of learning. The college sustains its excellence in teaching, research and community development to create excellent facilities in shaping the future of technocrats by nurturing their talents as per the need of the nation. GIET provides an asset to the scholars aspiring for higher studies and contribute to the nation in terms of invention and discovery of new facts and figures. It provides an excellent platform for students who dream of creating something extra-ordinarily new out of the current resources in use.\n\n
+                            The PG programs are approved by AICTE and affiliated to Biju Pattnaik University of Technology, Rourkela. The focus of the M.Tech Programs is on a thorough and in-depth study theory successfully blended with field work. GIET strives to produce engineers of tomorrow by imparting instruction with advanced curriculum, and research methodologies in modern areas of technology. The PG department has a good mix of faculty having experience in reputed academic institutes and industry. We are committed to achieve high standards of excellence in academic and research activities over the next few years. The Departments offer a variety of disciplines and covers most of the modern technologies. It has state of the art laboratories to provide hands on experiences and support research activities.\n\n
+                            Students are motivated to participate in research projects not limited to any branch boundaries and create a new horizon of research activity reflecting new areas of specialization or changes in technology.</string>
+    <string name="award1"> National Education Excellence Awards, 2016 </string>
+    <string name="award2">  National Education Excellence Awards(2016), an initiative of Praxis Media, in association with Education Connect - Indias leading online education portal and Global Brands Network - Confederation of most valuable brands worldwide was instituted in 2015 to recognize and felicitate the achievements and the work done by institutions and individuals in improving the quality of education in India, and thereby continuously working toward increasing the level of education excellence. The initiative was well supported by Janta TV - Electronic Media Partner, The Impressive Times - Print Media Partner, Prabhat Arjun - Hindi News Partner, Radio Manav Rachna 107.8 FM - Radio Partner, PlugIn PR - PR Partner and Recruit Wheels as its Associate Partner who echoed the same objective of Education Excellence.\n\n
+                            The Founder-Director of the company, Mrs. Swagatika Patel Singh was also present at the function and said that each winner have exemplified excellence and typify the very best of teaching practices and educational innovations. These winners are enhancing young lives on a daily basis by giving them proper guidance, immaculate skills, inviolable courage and unlimited curiosity. We understand that true education can make a real difference and that is exactly what all the winners here can take pride of. The National Education Excellence Awards, 2016 are a small token of appreciation from Praxis Media to all these inspirational individuals and institutions.\n\n
+                            The event was graced by an elite panel of guests and dignitaries that included names like Shri Amar Singh - Veteran Politian &amp; Former Member of Parliament, Shri Anil Shastri - Former Finance Minister, Government of India, Ms. Alka Lamba - Hobble MLA from Delhi, Smt. Swati Maliwal - Hon\'ble Chairperson, Delhi Commission for Women, Ms. Arti Mehra - Senior Politician, BJP, and Shri Anand Kumar - Founder, Super 30.</string>
+    <string name="award3"> Odisha State Energy Conservation of Energy Award 2015 </string>
+    <string name="award4"> Gandhi Institute for Education and Technology, Baniatangi , one among the emerging engineering colleges in bhubaneswar, bags the prestigious award of Award for Excellence in Energy Conservation, Efficiency and Management - ODISHA STATE ENERGY CONSERVATION OF ENERGY AWARD 2015 By Bureau Of Energy Efficiency Ministry of Power, Govt. of India and Dept of Energy office of (EIC(E)-cum â€“PCEI and SDA, Govt. of Odisha in Education Institutes Category. The award was received by the Principal of the institute, Prof.N. Sutar, Director, Prof.B. Pradhan and Prof.Jyoti Barik at Jayadev Bhavan. Its energy conservation practices and effort to constantly strive to implement the initiatives of achieve the vision of Enhanced Energy Efficiency played a very important role in achieving the award. </string>
+    <string name="teach"> GUEST LECTURES </string>
+    <string name="teach1">  In today\'s environment, hoarding knowledge ultimately erodes your power. If you know something very important, the way to get power is by actually sharing it. A Lecture is an occasion when you numb one end to benefit the other.\n\n
+                            At GIET emphasis is given on not only making you academically brilliant, but true leaders and team players, thus preparing you for the real life corporate world. This is done by inviting people from industries and top institutions to provide valuable information to our students. We Invite Eminent personalities from various Industries and Institutions to lend valuable Information from their Experiences to our students. Guest Lecture is a way of enriching our students with the latest updates of the Industries and Technicalities. The Students are bestowed with knowledge about Industry needs, latest technical updates, Avenues for Higher studies etc..</string>
+    <string name="teach2"> MAJOR / MINOR PROJECTS </string>
+    <string name="teach3">  A reputation for excellence in research supported by a high caliber staff is reflected in the demand for entry to the fields of Sciences, Engineering &amp; Technology and Humanities from high achieving students. Committed to excellence in fundamental research as well as the development of innovative technologies for the future, GIET offers all initiatives for a quality research training experience for its students. The Institute maintains its relevance to world-class research by linking with industry and business through local and international research networks.\n\n
+                            The research strength spans over diverse disciplines like Data Mining, Structural Analysis, CAD/CAM, Rapid Prototyping, Manufacturing, Product Design, Renewable Energy, Information Technology, Solid Physics, Bio Chemistry and Materials Engineering. It also expands to research in basic sciences, applied sciences and biosciences. Emerging fields and key hi-tech disciplines of the future are focussed on. It encourages its researchers to participate in a wide range of international research collaborations. GIET\'s extensive network creates unique opportunities for conducting and supporting research, particularly in inter- and multi-disciplinary areas.</string>
+    <string name="teach4"> REMEDIAL / ELITE CLASSES</string>
+    <string name="teach5">  At the college level, remedial classes are sometimes necessary to compensate for different learning standards. Remedial classes are not necessarily semester or quarter-length classes. The departments of GIET offer crash courses over a few days or weeks in order to bring students up to speed quickly. These are also the standard classes that go for an entire semester, depending on the complexity of the subject taught or the amount of information covered. These classes usually have tests and homework like any other, often with a focus on review to ensure comprehension by students. For details the student can contact the concerned HOD in any semester.\n\n
+                            Goals &amp; Objectives of Elite Club - GIET, Bhubaneswar\n
+                            Academic excellence in the fields of Science &amp; Technology is the input center of attention area in GIET, Bhubaneswar. Hence acknowledge and appreciation ( the A&amp;A factor ) of academic distinction has to happen to hearten all GIETians. Elite club is a step in this direction with clear goals and objective.\n\n
+                            Who can be the members of the Club - The following criterion are to be satisfied\n\n
+                            (1) SGPA / CGPA of 9.0 or more\n
+                            (2) A minimum of 90 % of attendance\n
+                            (3) No indiscipline issues for these members\n
+                            (4) Participative in the development of the college\n
+                            (5) Good conduct and behavior</string>
+    <string name="teach6"> Faculty Profile </string>
+    <string name="teach7"> Our all faculty belongs to IITs &amp; govt. Engg. colleges of odisha by deserving excellent teaching experience in relavent subject. </string>
+    <string name="teach8"> Our Responsibility </string>
+    <string name="teach9">  * We guide each candidates individually.\n\n
+                            * We make you perfect in each subject.\n\n
+                            * We fully prepare you covering your syllbus so that you can score an outstanding grades in your examination.\n\n
+                            * We provide best study materials for your success.\n\n
+                            * Weekly &amp; monthly practice test series.\n\n
+                            * Our each class will be valuable supporting your preparation for all technical competitive exams like IES/GATE/PSU.</string>
+    <string name="pub"> Research Publications </string>
+    <string name="pub1"> Office of Dean, R &amp; D oversees all the research activities of the institute and monitors the M.Phil, M.Tech and Ph.D research programs pursued by the faculty members under different universities and mentors the publications by them. A few of the good publications made by the Faculty Members and students are: </string>
+    <string name="pub2"> Prof.Dr. B Pradhan </string>
+    <string name="pub3">    Das R.R. and Pradhan, B., 2012, â€ÂModelling and simulation of delamination damages in analysis of laminated FRP composite made bonded tabular single lap jointsâ€Â, Procedia Engineering,38, pp.32–39 \n\n
+                            Das R.R. and Pradhan,B â€œFinite Element based Delamination damage analysis of laminated FRP composite made bonded tabular socket joint,â€Â International Conference on Manufacturing Excellence, Amity University ,New Delhi, March 29-30,2012 Das, R .R. and Pradhan, B., â€œstress analysis of bonded tabular single lap joints made with functionally graded materials using finite element method,â€Â Third Asian Conference on Mechanics of Functional Materials and Structures, IIT Delhi, New Delhi, December 5- 8,2012.pp.453-456\n\n
+                            Das, R .R. and Pradhan, B., Finite element method based stress analysis of bonded tabular socket joints made with functionally graded materialsâ€Â, Fourth International Congress on Computational Mechanics and Simulation, IIT Hyderabad, Hyderabad, December 9-12,2012.pp.453-456</string>
+
+    <string name="pub4"> Prof. (Dr.) Binayak Sahu </string>
+    <string name="pub5"> "Signal Transmission in Optical networks" , "VSRD International Journal of Electrical and Electronics Engineering"</string>
+    <string name="pub6"> Prof.(Dr.)Sambit Mishra </string>
+    <string name="pub7">    (1) Mishra Sambit Kumar , Pattnaik Srikanta( Dr.), Average sum of plans in distributed query processing, IJCSI Journal, ISSN : 1694–0814, 2010\n\n
+                            (2) Mishra Sambit Kumar , Pattnaik Srikanta( Dr.), Evaluation of cost of plans in Multiple dependent queries execution using G.A. Techniques, IACSIT International Journal of Engineering and Technology, ISSN : 1793-8236, 2011\n\n
+                            (3) Mishra Sambit Kumar, Pattnaik Srikanta(Dr.), Retrieval of association degree between queries in multiple heterogeneous query processing Using Genetic Algorithm techniques, Journal of Engineering Innovation and research, ISSN : 2230-9373, 2011\n\n
+                            (4) Mishra Sambit Kumar, Pattnaik Srikanta(Dr.), Evaluation of gene value and heuristic function of alternate plans in multi database system using Genetic Algorithm, IJDMS Journal, ISSN : 0975-5985, 2011\n\n
+                            (5) Mishra Sambit Kumar, Pattnaik Srikanta(Dr.), Pattnaik Dulu(Dr.), Retrieving Queries by Applying Join Selectivity along with Various Join Mechanisms Using Soft Computing Approach, Journal of Computer Sciences and Applications, ISSN : 2328-7268, 2015.</string>
+    <string name="pub8"> Prof. Santosh Kr. Rath, CSE </string>
+    <string name="pub9">    (1) Rath Santosh Kumar, Bisoyee Biswajit, An Image retrieval system using spatial database, IJCSIT, ISSN : 0975-9646, 2010\n\n
+                            (2) Rath Santosh Kumar, Jena Manobendu Keshari, Data Mining : a healthy tool for your information, IJCSIT, ISSN : 0975-9646, 2011\n\n
+                            (3) Rath Santosh Kumar, Rephrasing Essentials of Object-oriented Programming based on Testing pre-requisites, International Journal of Computer Science and Information Technologies (IJCSIT), Volume-2(5), 2055-2059, 2011\n\n
+                            (4) Rath Santosh Kumar, Clustering Algorithm: The key to unfold and Track Large Scale Network, IJCA, 2011\n\n
+                            (5) Rath Santosh Kumar, Jena Manobendu, Clustering algorithm: Key to unfold and track large scale net, IPCSIT, 2011 </string>
+    <string name="pub10"> Asst. Prof. Snigdha M Mohapatra (CSE) </string>
+    <string name="pub11">   (1) Mohapatra Snigdha M., Mishra Pradipta K., A novel approach for confidence estimation using support vector machines, IJCA, ISSN : 0975-8887, 2014\n\n
+                            (2) Mohapatra Snigdha M., Mishra Pradipta K., More accurate value prediction using neural methods, IJCST, ISSN : 2229-4333, 2013</string>
+    <string name="facu"> GIET, Baniatangi, Khurda conducted two days (on 17th &amp; 18th June) faculty development training program in its premises. The program was inaugurated by the honorable Vice-Chairman Prof. J. P. Mishra, Director Prof. Dr. B. Pradhan and Vice-Principal Prof. Dr. B. Sahu. The resource person Mr. Nasim Khan who spoke for two days on the topic "The Sikhsak". It was attended by almost all the faculties of the college. The two days program was conducted with two sessions for each days forenoon and afternoon.\n\n
+                        The inaugural session was made with a devotional song made for concentration. He spoke at large on the ability of song and yoga for the development of concentration. The first session on the inaugural day was on the importance of motivation. Mr. Nasim Khan gave some lively examples and made some question answer sessions to make it a interesting one. The faculty members were divided into different groups with different names. The resource person was asking questions relating to the program. However the first day ended with a lot of enthusiasm among the teachers. Next morning was started with a devotional song again to develop the concentration. A lot of excitement was there among the groups to get the prize. The afternoon session was conducted on the attitude and behavior of the teachers towards the students. It was also interactive and entertaining session. The program came to an end at 5.30 evening. The winner group was Shivaji among all the groups. At the end of the session, Director and Vice-Principal gave away the prizes to the teachers who performed well in the session. However, the training program was grand success boosting the spirit of the teachers.</string>
+    <string name="facu1">  G.I.E.T. conducts two days FDP Workshop Sikhsak </string>
+    <string name="facu2"> Theme of the Programme </string>
+    <string name="facu3">       1. Make faculty members aware of their own patterns of teaching and its effectiveness\n\n
+                                2. Facilitate to create interest for studies among the students\n\n
+                                3. Contemporary Pedagogical Techniques\n\n
+                                4. Goal setting for the students\n\n
+                                5. Career mentoring for the students\n\n
+                                6. Leadership Quotient and Team work\n\n
+                                7. Facilitate to channelize their source of energy to derive enthusiasm for work\n\n
+                                8. Provide participants the opportunity to identify and work on issues critical to their growth and personal effectiveness\n\n
+                                9. Sensitise them towards involvement in Institution building prospective\n\n
+                                10.Discover their potential to live more effectively and meaningfully in the various roles they play\n\n
+                                The session was very interactive and scientific for development of the professional personalities.\n\n
+                                A Faculty Development Programme was organized in GIET campus for the teaching staff of all the branches. It was a one day workshop which aimed at providing valuable information to all the faculty of the Departments. The main motive of this programme was to enhance the best techniques of teaching methods in the present day and to update the knowledge of the faculty. Dr Ashok Panda an eminent journalist was the key note speaker who addressed to the gathering. His presentation included Team Building skills which can help to work efficiently with good results in one day developing the organization. He also focused that Corporate Culture and work ethics should be trained to the students in the Engineering colleges in order to obtain better opportunities in the job sector. Dr. Pandaâ€™s presentation mainly focused on Time Management which is the prime factor and has a great value to utilize in this competitive world. He stressed on the fact that the faculties should have a holistic approach in imparting quality education. The programme was emphasized on vital areas of motivation development of leadership quality, effective communication, image management, classroom and mind management etc.</string>
+    <string name="seminar1"> Seminars &amp; Conferences conducted by G.I.E.T </string>
+    <string name="seminar2">    (1) A Workshop on National Programme on Technology Enhanced Learning (NPTEL) was organized by Gandhi Institute for Education and Technology on 13th July 2013.\n\n
+                                (2) Seminar on ACMA by Mech. Engg. Dept on 30th November, 2012.\n\n
+                                (3) Seminar on Cement Content of Future Concrete without compromising the strength aspects by Civil Engg Dept on 30th November, 2012.\n\n
+                                (4) Talk by Dr. Sudip Mishra, professor in IT, IIT, KHARAGPUR.\n\n
+                                (5) Talk by Mr. B.P.Rath, Sr. Engg., Simplex infra on 24th nov 2012.\n\n
+                                (6) Talk by Mr. B.B.Nayak, GM, NALCO ON 19TH NOV 2012.\n\n
+                                (7) Talk by Dr. A.K. Panda, State Head, SUNMARG\n\n
+                                (8) National Seminar on Power Electronics and Energy System on 29th &amp; 30th sept. 2012.\n\n
+                                (9) National Seminar on Communication and Signal Processing on 13th &amp; 14th oct. 2012.\n\n
+                                (10) Talk on Cloud Computing by Mr. Sushant Panda,IBM.\n\n
+                                (11) Workshop on Industrial Product Design with 3-D Modeling and computer Simulation by PTC on April 16th 2012.\n\n
+                                (12) One day Faculty Development Program by Prof. A.P.Padhi.\n\n
+                                (13) Seminar on "Management Program for B.tech Student and Career Prospects "on JUN 20th 2012.\n\n
+                                (14) Presentation by A.K.Khanna from Larsen and Tubro on 23rd nov. 2012.\n\n
+                                (15) Presentation by Nitesh Singh from NIIT on cloud computing.\n\n
+                                (16) Workshop on Ethical Hacking by IITIANS on nov. 25th and 26th 2011.\n\n
+                                (17) National Seminar on Effect of Embedded System on Emerging Computational and Information Technologies on April 2011.\n\n
+                                (18) Workshop on Data mining on 25th Sept 2010.\n\n
+                                (19) Seminar on Professional development and corporate readiness on 13th Nov 2010.</string>
+    <string name="dep1"> Compu. Sc. </string>
+    <string name="dep2"> Mechanical </string>
+    <string name="dep3"> EE Engg. </string>
+    <string name="dep4"> ECE Engg. </string>
+    <string name="dep5"> Civil Engg. </string>
+    <string name="dep6"> EEE Engg. </string>
+    <string name="dep7"> CS Engg. </string>
+    <string name="dep8"> MS Design </string>
+    <string name="dep9"> PE Drives </string>
+    <string name="dep10"> Stru. Engg. </string>
+    <string name="dep"> DEPARTMENTS </string>
+
+    <!-- Computer Science & Engineering-->
+    <string name="dept"> Computer Science &amp; Engineering </string>
+    <string name="dept1">   The Department of Computer Science and Engineering acts as the nurturing ground for young professionals who can make their mark and to create a talent pool for various industries. The basic aim of the department is to advance, evolve and enhance computer science and software engineering fundamentals to build the intellectuals capital of research and students. The department focuses on the study of theoretical foundation of information and computation and of practical techniques for their implementations and opportunity in computer science. This department in GIET has qualified faculty members along with a well equipped laboratories.\n\n
+                            The department has a well equipped state-of-the-art computer system connected to a networking environment with servers consisting of Windows and Linux operating systems.\n\n
+                            The research and development scope of the department is enormous. Students undertake lots of course oriented projects under the guidance of qualified faculty members.\n\n
+                            The CSE Dept. prepares the students to pursue leadership, technical and management positions in a variety of Industries.</string>
+    <string name="dept2"> Vision &amp; Mission </string>
+    <string name="dept3">   VISION\n\n
+                            To provide most dynamic environment for quality academic, research oriented undergraduate education in Computer Science &amp; Engineering &amp; prepare students for a competitive technical society &amp; train them towards serving the society.</string>
+    <string name="dept4">        MISSION\n\n
+                                (1) To provide engineering graduates a strong theoretical and practical background with an emphasis on research and software development.\n\n
+                                (2) To impart engineering graduates the ability necessary to continue education and to grow professionally in the field of higher education and research.\n\n
+                                (3) To cater to the technological need of emerging challenges of society and academia in specific.\n\n
+                                (4)To inculcate professional behaviour, strong ethical values, and leadership abilities among graduates.</string>
+    <string name="dept5">   The department is well equipped with the state of the art laboratories like:\n\n
+                            1. Programming Lab\n
+                            2. Networking Lab\n
+                            3. Software Engineering Lab\n
+                            4. IoT Lab\n
+                            5. Computer Architecture Lab\n
+                            6. Advance Programming Lab </string>
+    <string name="dept6"> Lab Facility </string>
+    <string name="dept7"> Message From HOD </string>
+    <string name="dept8"> Prof.(Dr.) Anil Kumar Mishra </string>
+    <string name="dept9">   Welcome to the Department of Computer Science and Engineering at Gandhi Institute for Education and Technology Bhubaneswar (The Temple City of India) of ODISHA state, India. As you find your way through our website I would like to inform you that department consists of faculty, staff and students committed to excellence and success. Department offers Bachelors Degree in Computer Science and Engineering under BijuPattnaik University of Technology, Rourkela. Moreover faculty members provide their guidance leading to Ph.D degrees in Computer Science and Engineering under different university systems. Careers in computer science and engineering remain in very high demand and offer not only the comforts of a high-paying job, but also the intellectual challenges of a creative and productive profession.\n\n
+                            We hope this website will provide you a useful aid to become familiar with the department. We are confident that you will enjoy the challenges and rewards of our Bachelors Program in Computer Science and Engineering at Gandhi Institute for Education and Technology under Biju Pattnaik University of Technology (BPUT), Rourkela.\n\n
+                            Happy journey to GIET, Bhubaneswar.</string>
+
+    <!-- Mechanical Engineering -->
+    <string name="dept10"> Mechanical Engineering </string>
+    <string name="dept11"> Prof.(Dr.) Pritinika Behera </string>
+    <string name="dept12">  Mechanical Engineers need solid understanding of the original concepts of mechanics, thermodynamics and heat transfer, kinematics, energy system, manufacturing, Materials Engineering and Computer Aided Design(CAD). This broad and flexible program allows students to customize their programs to meet their objectives and particular career goal.\n\n
+                            The department of Mechanical Engg. In GIET has team of highly qualified and experienced faculties from the institutes of national repute. There are course oriented labrotories where the students do experimental work leading to a better understanding of physical situations.\n\n
+                            Besides, the department has also provided pro E and Ansys software in its labs. The mission of the Department is to establish itself as a centre of excellence in the field of Mechanical Engineering, through innovative teaching learning methods, intensive CAD/CAM short term programs, INSTITUTE INDUSTRY partnerships, and carrying on projects on Mechanical Engineering. The well equipped laboratories, dedicated, qualified and committed faculty and supporting staff form the core of the branch. The dept. of mechanical Engineering provides a good placement opportunities both inside of state and various states across india.</string>
+    <string name="dept13">   VISION\n\n
+                             To be recognized for quality education and research leading to well skilled mechanical engineers, who are to gratify the ever changing industrial demands and social requirements. </string>
+    <string name="dept14">  MISSION\n\n
+                            (1) To offer a platform to the students towards attaining quality education in Mechanical Engineering.\n\n
+                            (2) To educate students about professional &amp; ethical responsibilities and guide them to build leadership and entrepreneurship qualities for their career development.\n\n
+                            (3) To generate opportunities and channel students in acquiring career oriented jobs in the field of Mechanical Engineering.\n\n
+                            (4) To develop platforms with exceptional R&amp;D activities for quality in teaching, research and consultancy practices.</string>
+    <string name="dept15"> The department is well equipped with the state of the art laboratories like:\n\n
+
+                            1. WORKSHOP PRACTICE LAB\n\n
+                            2. MATERIAL TESTING LAB\n\n
+                            3. INTERNAL COMBUSTION ENGINE LAB\n\n
+                            4. FLUID MECHANICS &amp; HYDRAULIC MACHINES LAB\n\n
+                            5. AUTOMOBILE LAB\n\n
+                            6. PRODUCTION LAB\n\n
+                            7. REFRIGERATION &amp; AIR-CONDITIONING LAB\n\n
+                            8. HEAT TRANSFER LAB\n\n
+                            9. CAD/CAM LAB\n\n
+                            10. MEASUREMENTS &amp; METEOROLOGY LAB\n\n
+                            11. MACHINE DYNAMICS LAB\n\n
+                            12. ENGINEERING GRAPHICS LAB\n\n
+                            13. PROJECT LABORATORY </string>
+    <string name="dept16">   Welcome to the Department of Mechanical Engineering at Gandhi Institute for Education and Technology Bhubaneswar (The Temple City of India) of ODISHA state, India. As you find your way through our website I would like to inform you that department consists of faculty, staff and students committed to excellence and success. Department offers Bachelors Degree in Mechanical Engineering under BijuPattnaik University of Technology, Rourkela. Moreover faculty members provide their guidance leading to Ph.D degrees in Mechanical Engineering under different university systems. Careers in Mechanical engineering remain in very high demand and offer not only the comforts of a high-paying job, but also the intellectual challenges of a creative and productive profession.\n\n
+                            We hope this website will provide you a useful aid to become familiar with the department. We are confident that you will enjoy the challenges and rewards of our Bachelors Program in Mechanical at Gandhi Institute for Education and Technology under Biju Pattnaik University of Technology (BPUT), Rourkela.\n\n
+                            Happy journey to GIET, Bhubaneswar. </string>
+
+    <!-- Electrical Engineering -->
+    <string name="dept17"> Electrical Engineering </string>
+    <string name="dept18"> Prof.(Dr.) Pradyumna k. Sahoo </string>
+    <string name="dept19"> Electrical Engineering is a profession that uses science, technology &amp; problem solving skills to design, construct &amp; maintain products. It is a challenging &amp; rewarding area of study. The department of Electrical Engineering was started in the year 2013 with an intake of 60 students. The aim and objective of the department is to create professional Electrical Engineers, who can serve in the fields of core Electrical Engineering and the related areas. Today there is a huge requirement of Electrical Engineers in fields like Steel and Power. This department in GIET has a good number of well experienced and qualified faculty members sincerely guiding their students for core technical knowledge, project work and research. . It is endowed with well-equipped labs which meets the standards specified by the A.I.C.T.E. norms. The intake was further enhanced to 120 in 2014.\n\n
+                           The Department focuses on the overall development of students through participation in projects, seminar presentations and industrial visits. Our strength is a reflection of their skills, innovation and drive. The faculty in the department is a rich blend of personnel with industrial and professional experience. Studying Electrical Engineering will lead to potential careers in the areas of Research and Development (R&amp;D), design, installation and commissioning, control and maintenance, consultancy and manufacturing. </string>
+    <string name="dept20">  VISION\n\n
+                            Department of Electrical Engineering framed as a premier department which known for its quality education, cutting edge research and accomplished graduates. </string>
+    <string name="dept21"> MISSION\n\n
+                            (1) To provide the best possible education facilities and to guide the students to become performing professionals in the international arena.\n\n
+                            (2) To create a favourable atmosphere in which higher studies and research can flourish and blossom.\n\n
+                            (3) To establish and maintain the state of the art research facilities for dissemination of knowledge in engineering and science.\n\n
+                            (4)  To render service to the industry and community through educational, technical and entrepreneurial activities and innovations.\n\n
+                            (5)  To prepare a team of engineers and scientists to aid the industrial development and economic growth of the country.</string>
+    <string name="dept22"> The department is well equipped with the state of the art laboratories like:\n\n
+                            1. BASIC ELECTRICAL ENGG. LAB\n\n
+                            2. NETWORK THEORY LAB\n\n
+                            3. ELECTRICAL &amp; ELECTRONICS MEASUREMENT LAB\n\n
+                            4. ELECTRICAL POWER TRANSMISSION &amp; DISTRIBUTION LAB\n\n
+                            5. ELECTRICAL MACHINES-I LAB\n\n
+                            6. ELECTRICAL MACHINES-II LAB\n\n
+                            7. CONTROL SYSTEM ENGINEERING LAB\n\n
+                            8. POWER ELECTRONICS LAB\n\n
+                            9. ELECTRIC DRIVES LAB\n\n
+                            10. ELECTRICAL SIMULATION LAB\n\n
+                            11. POWER SYSTEM LAB </string>
+    <string name="dept23"> Welcome to the Department of Electrical Engineering at Gandhi Institute for Education and Technology Bhubaneswar (The Temple City of India) of ODISHA state, India. As you find your way through our website I would like to inform you that department consists of faculty, staff and students committed to excellence and success. Department offers Bachelors Degree in Electrical Engineering under BijuPattnaik University of Technology, Rourkela. Moreover faculty members provide their guidance leading to Ph.D degrees in Electrical Engineering under different university systems. Careers in Electrical engineering remain in very high demand and offer not only the comforts of a high-paying job, but also the intellectual challenges of a creative and productive profession.\n\n
+                        We hope this website will provide you a useful aid to become familiar with the department. We are confident that you will enjoy the challenges and rewards of our Bachelors Program in Electrical at Gandhi Institute for Education and Technology under Biju Pattnaik University of Technology (BPUT), Rourkela.\n\n
+                        Happy journey to GIET, Bhubaneswar.</string>
+
+    <!--  Electronics & Communication Engineering -->
+    <string name="dept24"> Electronics &amp; Communication Engineering </string>
+    <string name="dept25">  In the rapid development in Electronics and Communications initiated the inception of a separate department at GIET, Bhubaneswar since 2009 for imparting state-of-the-art knowledge in Electronics and Communication Engineering and allied areas.\n\n
+                            The department runs with a mission to shape graduates into hardcore professionals who would become effective leaders and noteworthy innovators in the technology areas of Electronics and Communication Engineering and Knowledge Engineering. It also motivate and encourage the students to engage in lifelong learning which would help them keep abreast with contemporary developments in their fields of operation and enable them to leverage on the power of knowledge to become outstanding performers in whatever careers they choose. While producing competent professionals and responsible citizens, it is our Endeavour to ensure that our graduates adhere to ethical values in life and be sensitive to environmental and social issues.\n\n
+                            The department has seven divisions (Communication, Networking &amp; Wireless, Digital Signal Processing, Embedded Systems, MEMS &amp; Sensors, Photonics &amp; Microwave and VLSI) with good infrastructural facilities and is equipped with full-fledged laboratories. The department also has audio-visual facilities with LCD for effective teaching, having an intake of 60 students. It offers a Bachelors programme in Electronics and Communication Engineering and a Masters Programme in Communication Systems. The placement record has always been very impressive.\n\n
+                            The Department helps the students to bring out their talents by conducting technical contest, workshops, symposium &amp; conference. Students of the department actively participate and get awarded in National-level Student Paper Contests being organized at IIT\'s, NIT\'s and various other Engineering Colleges. These events provide a platform for the students to expose themselves to the industry &amp; keep pace with its achievements. Also as the Institute has an ISTE Student\'s Chapter and the students of our department actively participate in the various activities of ISTE.\n\n
+                            Our alumni have added feathers in the cap of GIET\'s rich history by making a mark in the industrial sphere. The students will strive to keep the lamp burning and follow the path to success. Alumni support has always been a great driving force in the progress of our institute and we value our continued relationship with all alumni. </string>
+    <string name="dept26">  VISION\n\n
+                            To develop a unique identity of the graduates by providing high quality and valuable resources for industry and society through excellence in the field of Electronics &amp; communication.</string>
+    <string name="dept27">   MISSION\n\
+                            (1) To educate the students with high level of technical education in the field of electronics, communication and signal processing for meeting the growing challenges of the industries.\n\n
+                            (2) To carry out core and interdisciplinary research through constant interaction with research organizations and to provide them best of laboratory facilities, collaborative ventures with the industries.\n\n
+                            (3)  To develop the foundation to understand the concept of core electronics subjects including emerging fields of electronics programe.\n\n
+                            (4) To inculcate value-based education and new technologies in Electronics &amp; Communication Engineering in order to serve the needs of the society, industry and government .</string>
+    <string name="dept28"> The department is well equipped with the state of the art laboratories like:\n\n
+                            1. Basic Electronics Lab\n\n
+                            2. AEC Lab\n\n
+                            3. DEC Lab\n\n
+                            4. VLSI and Embedded System lab\n\n
+                            5. DSP Lab\n\n
+                            6. Microwave Lab\n\n
+                            7. Microprocessor and MicroController lab\n\n
+                            8. Communication lab\n\n
+                            9. Signal and systems lab </string>
+    <string name="dept29"> Prof. Jyotisankar Kalia </string>
+    <string name="dept30"> Welcome to the Department of Electronics &amp; Communication Engineering at Gandhi Institute for Education and Technology Bhubaneswar (The Temple City of India) of ODISHA state, India. As you find your way through our website I would like to inform you that department consists of faculty, staff and students committed to excellence and success. Department offers Bachelors Degree in Electrical Engineering under BijuPattnaik University of Technology, Rourkela. Moreover faculty members provide their guidance leading to Ph.D degrees in Electrical Engineering under different university systems. Careers in Electrical engineering remain in very high demand and offer not only the comforts of a high-paying job, but also the intellectual challenges of a creative and productive profession.\n\n
+                        We hope this website will provide you a useful aid to become familiar with the department. We are confident that you will enjoy the challenges and rewards of our Bachelors Program in Electrical at Gandhi Institute for Education and Technology under Biju Pattnaik University of Technology (BPUT), Rourkela.\n\n
+                        Happy journey to GIET, Bhubaneswar. </string>
+
+    <!-- Civil Engineering -->
+    <string name="dept31"> Civil Engineering </string>
+    <string name="dept32"> The Department of Civil Engineering was started with intake strength of 60 students in the academic year 2010. Intake was enhanced to 120 in the academic year 2012. Post graduate program in Structural Engineering was started in the academic year 2013. The department is having well qualified, experienced and dedicated faculty and committed supporting staff members in diversified field of specialization. The faculty members are assigned with various theory subjects and prepare course plans using the standard format provided by the institute with emphasis on innovative thinking and learning of the students. The instructional or lecture delivery of the faculty will be through a set of educational techniques / tools opted by the faculty. The lectures lay emphasis on course content, utility value, real life examples and latest developments in the field of Civil Engineering. The department provides value added courses like Auto-Cad, Stadd-Pro for students to learn about planning, design and detailing of Civil Engineering structures. The Laboratories of the department are well equipped with advanced and sophisticated instruments, to fully satisfy the training needs of the students and to meet the research and consultancy activities of the department. The department conducts industrial visits, national seminars, expert talks and advanced training programmes in the various fields of civil engineering. Civil Engineering Society has been established so that the students can take part in these association activities to enrich their technical knowledge and also improve their confidence level through addressing, gathering, group discussions. The department offers extensive consultancy services like testing of building materials for many private organizations. The department is having an Alumni Association for the pass out students. </string>
+    <string name="dept33">  VISION\n\n
+                            To become a school of virtue that brings out civil engineers with high technically expertise and promotes high-end research to meet the current and future challenges in civil engineering.</string>
+    <string name="dept34"> MISSION\n\n
+                            (1)To innovate and integrates the ideas and technology across the public, private, and academic sectors.\n\n
+                            (2) To develop moral and ethical values among the students.\n\n
+                            (3) To strengthen students to pursue higher education and take competitive exams and various career reinforcing courses.\n\n
+                            (4) To inspire the leaders of tomorrow to take on the challenge of invention and sustaining &amp; built environment that underpins our society.</string>
+    <string name="dept35"> The department is well equipped with the state of the art laboratories like:\n\n
+                            1. Transportation Engineering Lab\n\n
+                            2. Concrete Lab\n\n
+                            3. GeoTechnical Lab\n\n
+                            4. Material Testing Lab\n\n
+                            5. Environmental Engineering Lab\n\n
+                            6. Survey Lab </string>
+    <string name="dept36"> Prof. Binay Kumar Panigrahi </string>
+    <string name="dept37"> I take the privilege to welcome you all to the Department of Civil Engineering at Gandhi Institute for Education and Technology, Bhubaneswar.\n\n
+                            A Civil Engineer is responsible for planning and designing a project, constructing the project to the required scale, and maintenance of the product. A Civil Engineer requires not only a high standard of engineering knowledge but also supervisory and administrative skills.\n\n
+                            The planning part of their work involves site investigation, feasibility studies, creating solutions to complications that may occur and the actual designing of structures. Civil Engineering involves planning, designing and executing structural works.The profession deals with a wide variety of engineering tasks including designing, supervision and construction activities of public works like roads, bridges, tunnels, buildings, airports, dams, water works, sewage systems, ports etc. and offers a multitude of challenging career opportunities. Our Civil Engineering department is vibrant, due to our dynamic academic and technical staff members, as well as our bright students.\n\n
+                            So Come and join with us and build the Nation! </string>
+
+    <!-- Electrical & Electronics Engineering -->
+    <string name="dept38"> Electrical &amp; Electronics Engineering </string>
+    <string name="dept39">  The department of Electrical &amp; Electronics Engineering since its inception in year 2009 is involved in the study of evolving subjects. This department offers one under graduate course (B.Tech in Electrical and Electronics Engineering) and a post graduate course (M.Tech in Power Electronics and Drives). This department is dedicated to the current needs of the industry. Application of new technologies in various fields is one of the main focuses in the departmental activities. EEE is a subject that naturally partners with other disciplines to open whole new engineering avenues. The department has grown not only in terms of Faculties and Students but also in terms of state of the art laboratories for students.\n\n
+                            This course not only introduces the students into the world of Electrical and Electronics Engineering but also gives them strong technical knowledge. This B.Tech degree Program provides a balance between depth of knowledge acquired through specialization and breadth of knowledge acquired through exploration. The department also promotes research activities amongst its students and faculties. EEE Department also encourages its students to involve themselves in various learning and interaction activities.</string>
+    <string name="dept40"> VISION\n\n
+                            To develop into a front-runner in bringing out worldwide experienced electrical and electronics engineers, innovators, researchers, and entrepreneurs with best technological, interactive skills and thereby contribute value to the knowledge based economy and society.</string>
+    <string name="dept41"> MISSION\n\n
+                            (1) To present state-of-the-art resources that contribute to accomplish brilliance in teaching-learning, research and improvement activities.\n\n
+                            (2) To permit students to build up skills to resolve complex technical troubles of present times and also present a outline for promoting collaborative and multidisciplinary behavior.\n\n
+                            (3) To inculcate moral and ethical ideals among the faculty and students and to build research oriented approach and focus in fulfilling increasing demands of society through mentoring and inspiration.\n\n
+                            (4) To uphold a amiable, heartening and discrete atmosphere that invigorates our students and faculties to accomplish most of their abilities.</string>
+    <string name="dept42"> The department is well equipped with the state of the art laboratories like:\n\n
+                            1. BASIC ELECTRICAL ENGG. LAB\n\n
+                            2. NETWORK THEORY LAB\n\n
+                            3. ELECTRICAL &amp; ELECTRONICS MEASUREMENT LAB\n\n
+                            4. ELECTRICAL POWER TRANSMISSION &amp; DISTRIBUTION LAB\n\n
+                            5. ELECTRICAL MACHINES-I LAB\n\n
+                            6. ELECTRICAL MACHINES-II LAB\n\n
+                            7. CONTROL SYSTEM ENGINEERING LAB\n\n
+                            8. POWER ELECTRONICS LAB\n\n
+                            9. POWER SYSTEM LAB\n\n
+                            10. ELECTRICAL SIMULATION LAB </string>
+    <string name="dept43"> Prof.(Dr.) Balaji Prasad Padhi </string>
+    <string name="dept44">  Greetings from the EEE department, Gandhi Institute For Education and Technology, Bhubaneswar. It gives me immense pride and pleasure to lead the Electrical and Electronics Engineering Department of this esteemed, prestigious and one of the fast growing institution of eastern India.\n\n
+                            We at EEE department continue to transform the way we live - from the latest gazettes through sophisticated scientific and industrial technologies. Further, we believe that contributing to long-term economic prosperity through a commitment to education, research and service. Sitting squarely in an Engineering Faculty, the Department of EEE is focused on devising innovative, accurate solutions to complex problems, whilst ensuring that the solutions execute optimally. The department\'s excellent infrastructure, extremely talented teaching faculty of the best kind ensuring quality education and staff, along with a Training and Placement Cell ensures a bright future to its students. Thus we are confident that our students will emerge as assets not only to this institution and to the organization they belong, but also to the country at large.\n\n
+                            Thanks to the efforts of our management, researchers, teachers, alumnus and students for their continuous support. We continue to play a leading role in our discipline and are committed towards creating innovative and effective professional graduate community which would vivacious and provide continuous learning.</string>
+
+    <!-- M.tech Engineering -->
+    <string name="dept45"> Mechanical System &amp; Design </string>
+    <string name="dept46"> Structural Engineering </string>
+    <string name="dept47"> Power Electronics and Drives </string>
+    <string name="dept48"> Communication System Engineering </string>
+    <string name="dept49">  The GIET has started M. Tech Program in Communication Systems in the year 2014 with an intake capacity of 18 seats. The program is approved by AICTE and affiliated to Biju Pattnaik University of Technology, Rourkela. The focus of the M.Tech Degree programme in Communication Systems is on a thorough and in-depth study of Communication theory.\n\n
+                            In the present scenario of Information &amp; Communication Technology, Communication Engineering is of vital importance for any society. The communication revolution has led the whole world being global village concept. The prominent domains covered in this programme are Modern Digital Communication Techniques, Optical Communication &amp; Networking, Wireless Communication, Radar System Engineering, Optical Communication, Antenna Theory &amp; Design and satellite Communication. Electives include, Computational Intelligence, Analogue Integrated Circuit Design, Semiconductor Device Modeling and Simulation, Adaptive Signal Processing, Digital Integrated Circuit Design, Digital Image Processing, Biomedical Instrumentation and Signal Processing, RF and Mixed Signal Integrated Circuit Design, Industrial Telematics, Embedded System Design and Internet and Web Technology.\n\n
+                            Candidates who have acquired BE/B.Tech degree in Electronics and Communication, Telecommunication Engineering by securing not less than 50% marks in aggregate are eligible. The admissions are through central counseling on the basis of merit in OJEE or GATE. GATE qualified candidates are eligible for scholarship through AICTE.\n\n
+                            The students are required to learn through hands on in various laboratories in the department, namely: Advanced Communication Lab, Microwave &amp; Antenna Lab, Advanced DSP lab, Design and Simulation Lab etc.\n\n
+                            Students are motivated to participate in research projects in the areas of wired and wireless communication, Smart antennas, Signal Processing, Image, Video and speech processing etc.</string>
+    <string name="dept50"> The department of Mechanical Engineering has introduced one of major post graduate programme in the field of Mechanical System &amp; Design in the year 2014 with an intake capacity of 18 seats. The programme involves so many outlooks as discussed below.\n\n
+                            The design and manufacturing of most of the products we use in our everyday life has in some way involved work of a mechanical engineer. The mechanical engineer has either been directly involved in the design and development process of the product and/or in the design and development process of the manufacturing equipment. Furthermore, the global competition has increased the demands for efficiency and functionality in industrial products. Therefore, the world needs engineers who can develop advanced and competitive mechanical systems, machines and products. The Master\'s programme Mechanical System &amp; Design prepares you for meeting such challenges.\n\n
+                            The Mechanical System &amp; Design programme at GIET Baniatangi focuses on design and development of industrial products through the use of both theory and practice. Thereby, you learn how to combine technical and creative skills and obtain in-depth knowledge about the entire design and development process.\n\n
+                            The programme gives you insight into a wide range of design tools essential for a mechanical engineer. The classical engineering disciplines such as Advanced Mechanics of Solids, Applied Elasticity &amp; Plasticity, Machine Vibration, Bearings &amp; Lubrication are combined with courses on the latest computer based simulation tools like finite element methods, optimization methods and computer graphics methods. </string>
+    <string name="dept51">  The Department of Electrical and Electronics Engineering started M.Tech in Power Electronics and Drives in the year 2014 with an intake of 18. The Programme is approved by AICTE and Government of Odisha and is affiliated to Biju Pattnaik University of Technology.\n\n
+                            Power electronics finds applications in Control of AC &amp; DC drives in industries, commercial, aerospace, utility and military applications and also it plays an important role in switching power supplies, High voltage DC lines which interconnect two different AC systems. Rapid developments in recent times indicate the applications of semiconductor power devices that can efficiently switch large current at high voltages with an emphasis on low power loss.\n\n
+                            Objectives:\n\n
+                            To train competent engineers and professionals to meet the needs of industries related to power electronics and drives, power electronics applications in power systems, and the transportation sector.\n\n
+                            Infrastructure:\n\n
+                            The Department have specialized laboratory and students are expected to work and gain practical knowledge in ABB/Project Lab, Power Electronics Lab, High Voltage Lab, Relay Lab, Power System Simulation Lab.\n\n
+                            Research Opportunities:\n\n
+                            Students are motivated to participate in research projects in the areas of, but not limited to: Control Systems, Power Electronics in Power systems, Power Systems Protection, High Voltage Transmission Systems, Power Electronics &amp; Industrial Drives, Applications of Power Electronics.\n\n
+                            Scope of Employment:\n\n
+                            Placement in leading core companies like GE, TVS Electronics, Blue Star Infotech, BSNL Nokia, Texas instruments, Analog Devices, Honeywell, Tata Elxi, IBM and the like.\n\n
+                            All R&amp;D and Academic Institutions involved in R&amp;D in the areas of Power Electronics Technology.</string>
+    <string name="dept52">  The department of Civil Engineering has introduced one of major post graduate programme in the field of Structural Engineering in the year 2014 with an intake capacity of 18 seats. The programme involves so many outlooks as discussed below.\n\n
+                            The design and detailing of most of the civil engineering Structures we use in our everyday life has in some way involved work of a Civil engineer. The Civil engineer has been directly involved in the design, detailing and Execution of structures. Furthermore, the global competition has increased the demands for efficiency and accuracy in design of Buildings, bridges, Railway Structures, irrigation structures, steel structures and earthquake resistance design. Therefore, the world needs engineers who can design advanced, complicated and modern civil engineering structures which can resist earthquake and disaster. The Master of technology in Structural Engineering prepares you for meeting such challenges.\n\n
+                            The Civil Structural Engineering at GIET, Baniatangi focuses on design and detailing of Civil engineering Structures through the theoretical concept and practice. Thereby, you learn how to combine technical and creative skills and obtain in-depth knowledge about the Structural design, detailing and execution process.\n\n
+                            The programme gives you insight into a wide range of design concepts for a civil engineer. The classical engineering disciplines such as Advanced Mechanics of Solids, Applied Elasticity &amp; Plasticity, bridge design, design of reinforced concrete structures and design of steel structures are combined with advanced courses with latest computer based design like finite element methods, mat lab, staad.pro, revit structure .</string>
+
+    <!-- Infrastructure/Facility content -->
+    <string name="f1"> INFRASTRUCTURE </string>
+    <string name="f2"> Central Library </string>
+    <string name="f3"> Hostel Life </string>
+    <string name="f4"> Transportation </string>
+    <string name="f5"> Bank &amp; ATM </string>
+    <string name="f6"> Gym </string>
+    <string name="f7"> Sports and Recreation </string>
+    <string name="f8"> Canteen </string>
+    <string name="f9"> Computer Center </string>
+    <string name="f10"> Medical Facility </string>
+    <string name="f11"> Wifi </string>
+    <string name="f12"> 24*7 Security </string>
+    <string name="f13"> Association Forum </string>
+    <string name="f14"> GIET CENTRAL LIBRARY </string>
+    <string name="f15"> The library has been built to maintain unique standards. Specialized collections of Books, Journals &amp; Non-book materials are available in Basic Sciences, Engineering and Technology, Humanities and Social Sciences. It has well over 17,715 Volumes of books and subscribes to many important journals, national and international. The library remains open throughout the week. Students can issue books from the library under three different schemes. They are \n\n
+                        (1) Regular issue\n
+                        (2) Book Bank issue\n
+                        (3) Overnight issue\n\n
+                        The library activities and services are fully automated using ERP (Fedena) software. The library is well equipped with modem facilities and resources (print and electronic) in the forms of non-book materials around 500 CDs, 31 Video Cassettes and 105 Audio Cassettes. GIET Subscribes to 165 National and International Journals. The library has access to 500+ e-resources; Apart from college library each department is having a separate library with good collection.</string>
+    <string name="f16"> The Library contributes to the fulfillment of the college mission by </string>
+    <string name="f17"> Responding to the varying needs of the academic community by involving the faculty, the students and the administration in the development and periodic assessment of the library services and resources. Providing library users with point-of-use instruction, personal assistance in conducting literature research and other reference services. Providing an environment conducive to the optimum use of library materials and an appropriate schedule of hours of service and professional assistance. Participating in overall computing resources plan and providing for full library utilization of automation technology, physical facilities and equipment adequate to process, catalogue and store the materials.\n\n
+                        The library has a: Circulation Section - Issue Counter, Return / Renewal Counter, Study Room, Prof. In charge - Library Office, Sr. Asst. Librarian Office (Periodical), Journal Section, Back Volumes Section, Copier Section, Periodical office &amp; Library OPAC.</string>
+    <string name="f18"> Timing </string>
+    <string name="f19"> (1) Library opens on all the working days, except the Institute Holidays\n\n
+                        (2) Monday to Saturday: 8 A M to 9 P M\n\n
+                        (3) Sunday/Other Holidays: 9 A M to 1 P M (Only study &amp; References)\n\n
+                        (4) Book Issue/Return: 8 A M to 6.30 P M\n\n
+                        (5) Study &amp; References: 8 A M to 9 P M</string>
+    <string name="f20"> RESOURCES </string>
+    <string name="f21"> Books\n\n
+                        (1) The Library has successfully built up a comprehensive collection of more than 17,715 books with 2,634 Titles covering different branches of knowledge.\n\n
+                        (2) Good collection of Novel &amp; story Books.\n\n
+                        (3) Beside that more than 500 books available in electronic form covering various subject.\n\n
+                        Journals\n\n
+                        Library subscribes more than 300 print and e-journals (National &amp; International) in different fields through IEEE, INDEST, DELNET, and ASME Databases.\n\n
+                        Video\n\n
+                        Library access the educational Video for students through NPTEL.\n\n
+                        CD-ROM\n\n
+                        The Library has around 500+ CD-ROM/DVD-ROM Databases different branches.\n\n
+                        Magazines\n\n
+                        Library subscribes to 30 magazines in English and Hindi.\n\n
+                        Newspaper\n\n
+                        Library Subscribes English, Oriya, Hindi 14 newspapers for the need of students and academic community.\n\n
+                        Other Resources\n\n
+                        The Library also hold a collection of project reports of all department, campus news, all semester old questions paper with answer.</string>
+    <string name="f22"> LIBRARY SERVICES </string>
+    <string name="f23"> Circulation (Issue/Return)\n\n
+                        Reference Service\n\n
+                        Automated Library operation with Institutional ERP (Fedena) software\n\n
+                        Current Awareness service\n\n
+                        CD-ROM facility\n\n
+                        Book Bank Facility\n\n
+                        Reprogramming services\n\n
+                        Digital Library\n\n
+                        News clippings\n\n
+                        New arrivals\n\n
+                        E-Document Delivery Services </string>
+    <string name="f24"> Open Courseware </string>
+    <string name="f25"> http://ocw.mit.edu/index.htm\n\n
+                        http://ocw.mit.edu/index.htm\n\n
+                        https://www.oeconsortium.org/\n\n
+                        http:https://oyc.yale.edu/\n\n
+                        http:https://open.umich.edu/\n\n
+                        http://ocw.jhsph.edu/\n\n
+                        http://mycourses.med.harvard.edu/public/\n\n
+                        http://oli.cmu.edu/independent-learner-courses/\n\n
+                        https://sites.tufts.edu/ocw/\n\n
+                        http://https://www.nd.edu/ </string>
+    <string name="f26"> RULES &amp; REGULATION </string>
+    <string name="f27"> (1) Every member who enters the library shall sign in Gate register.\n\n
+                        (2) All personal belongings should not be brought to the library.\n\n
+                        (3) Students should be in position, to show their identity when required by the authority.\n\n
+                        (4) The reader shell keeps silence within the library premises.\n\n
+                        (5) Students are not allowed to sit in the library hall when they have class work.\n\n
+                        (6) No person shall sleep in the library premises.\n\n
+                        (7) Every member who enters the library shall sign in Gate register.\n\n
+                        (8) All personal belongings should not be brought to the library.\n\n
+                        (9) Students should be in position, to show their identity when required by the authority.\n\n
+                        (10) The reader shell keeps silence within the library premises.\n\n
+                        (11) Students are not allowed to sit in the library hall when they have class work.\n\n
+                        (12) No person shall sleep in the library premises.\n\n
+                        (13) No person shall write damage or make any mark upon any book.\n\n
+                        (14) A person shall be responsible for any damage done by him/her to the books as property of the library.\n\n
+                        (15) Before leaving the library each person shall return the circulation/Documents taken for reference/reading.\n\n
+                        (16) Library card will be issued to the member. These library cards will be valid for one academic year and shall be renewed in the beginning of the subsequent year.\n\n
+                        (17) Documents will be lent to a borrower only against the library card.\n\n
+                        (18) In case the library card is lost by a member, a written report is to made to the librarian with a receipt of Rs 50.00 deposited for issue of duplicate library card.\n\n
+                        (19) A teacher can borrow up to three books for one semester or less at a time.\n\n
+                        (20) Students can borrow two technical and one general book for a period not exceeding 14 days. Beyond due date will have to pay the fallowing.\n\n
+                        (21) If a student does not return the book in the fine will be impose him as per details.\n\n
+                                15th -------------to -------------30th Rs 15/-\n
+                                31th -------------to--------------60th Rs 30/-\n
+                                61th -------------to--------------90th Rs 50/- N.B: Immediately action will be taken after date.\n\n
+                        (22) Non-teaching staff are allowed to take 2 nos. books for 14 days.\n\n
+                        (23) Officers of the institution are allowed to take two books for fourteen days.\n\n
+                        (24) Students can also borrow up to 6 books from the book bank for one semester by depositing 20% of cost of each book and has to return the book at the end of the semester.\n\n
+                        (25) Before leaving the counter, the borrower shall verify the pages of the book borrowed. If the book is not in sound physical condition, he/she should bring it to the notice of the library staff. Otherwise the borrower is liable to be responsible either for the replacement of the book or for payment of the double cost of the book.\n\n
+                        (26) Reference books, periodical, journals and rare books shall not be lent out of the library.But the said books can be issued to be teachers over night with the special permission of the principal/Director.\n\n
+                        (27) Books may be renewed for further period if the same are not in demand.\n\n
+                        (28) If a member does not pay-off any overdue or other charges of library, his/her privileges of borrowing books shall be suspended till he/she deposits the due.\n\n
+                        (29) In case a book is lost or damaged by a member, the member shall replace the book or shall pay double the cost. If the book is one of a set, the reader may be asked to replace the while set.\n\n
+                        (30) Students have to obtain library clearance after the end of each semester examination.</string>
+
+    <string name="f28"> HOSTEL AT GIET </string>
+    <string name="f29"> Hostel facilities are available for both boys and girls inside the college campus. For outside the campus college bus is available. Apart from all well furnished rooms with attached toilet and other amenities color TV, Computer &amp; wi-fi internet facilities, Newspaper &amp; Magazines. Both non-vegetarian &amp; vegetarian food is available on the basis of requirement of the students. Good hygienic condition is strictly maintained both in the food and living conditions. Hostel superintendents supervise the functioning of the Hostels regularly. The hostel fees are as per the guidelines of the state Govt. of Orissa. </string>
+    <string name="f30"> RULES AND REGULATION FOR THE HOSTEL </string>
+    <string name="f31"> (1) Residence: All students except those admitted on non-residential basis will remain in Hostel for the full duration of all semesters unless they are withdrawn from the Hostel.\n\n
+                        (2) No illegal drugs or firearms shall be stored and/or consumed in Premises and on campus in general. Liquor is also prohibited in the Hostel Premises.\n\n
+                        (3) Students are not allowed to cook meals in their rooms.\n\n
+                        (4) Visitors to Premises: Students are not allowed to entertain a member of the opposite sex in a hostel room, whether the visitor is from outside college or a member of the College.\n\n
+                        (5) No visitors of any description are allowed to spend a night in student hostels except college official visitors and students from constituent colleges for whom prior permission from the Warden has been granted.\n\n
+                        (6) Residence during vacation: Students are not allowed to stay in residence during vacations except those required, as part of the academic program, to carry or take part in specific tasks approved first by the relevant Head of Department and the Principal.\n\n
+                        (7) Those students allowed to remain in residence are required to pay for board and lodging and to observe the same rules as during semester time.\n\n
+                        (8) Food &amp; Cafeteria Services: Food, crockery, glasses, cutlery, etc., belonging to College should not be taken out of the dining hall except where prior permission has been obtained.\n\n
+                        (9) No student other than members of the catering committee should enter the kitchen.\n\n
+                        (10) No student is allowed to bring any kind of liquor into the dining hall or smoke in the dining hall.\n\n
+                        (11) Catering staff will be responsible for taking food to sick students who are bed ridden.\n\n
+                        (12) Meals for Visitors: The caterer will not provide meals to student\'s visitor, unless prior booking for a meal has been made. Booking should be made in writing to the Caterer at least six hours before the mealtime.\n\n
+                        (13) Any student who books a meal will be charged for it even if the visitor fails to turn up for the meal.\n\n
+                        (14) For all the Inmates study time morning &amp; evening will be strictly maintained.\n\n
+                        (15) Electric kettles, heaters, irons or any other appliances should not be used in the rooms.\n\n
+                        (16) Hostelers are not allowed to keep large amount of cash or valuables in their possession (rings/costly watches/jewellery, mobile phones etc.) Any violators will be doing at their own risk.\n\n
+                        (17) If a student does not report back to the hostel within 3 days, his/her name will be struck off the rolls.\n\n
+                        (18) Hostelers will not be permitted to keep eatables in their rooms.\n\n
+                        (19) Hostelers will be issued notices and circulars, informing them about new rules and regulations, which must be adhered to them.</string>
+    <string name="f32"> TRANSPORT FACILITY </string>
+    <string name="f34"> College provides bus facility for all the students and staffs of the college. For the hostelries, they have the provisions to go out to market or other hangouts in the city. This bus operates all the seven days of week as per a schedule notified from time to time. Transportation facility is also available every time for any kind of emergency.\n\n
+                        Students to note the following : \n\n
+                        To Present a student ID card or a class schedule and a picture ID before being allowed to board the bus.\n\n
+                        Students who have not registered for transportation will be allowed to use the facility for one week after that this facility will be cancelled.</string>
+    <string name="f35"> Download Bus Timing </string>
+    <string name="f36"> BANKING FACILITY </string>
+    <string name="f37"> ATM </string>
+    <string name="f38"> To provide the banking facility for the students and staffs, we established a ATM of SBI adjacent to our college campus. To make banking easier for our students, 24 hours ATM facility has been provided. Hostel students enjoy the benefits more.\n\n
+                        SBI, Khurda Branch provides zero balance students a/c facility along with passbook and ATM for GIET students. Students can avail this facility by submitting a bonafide form duly signed by the authority.</string>
+    <string name="f39"> Education Loan </string>
+    <string name="f40"> Students can avail education loan facility from Central Bank of India. Else, they can avail the same from any other nationalized bank. They can take facility from SBI, Bank of India, Central Bank of India &amp; Andhra Bank for B-Tech courses to needy and deserving meritorious students who fulfill the eligibility conditions of said banker\'s educational loan scheme with \n\n
+                        *   Attractive rate of Interest\n\n
+                        *   No Processing Charges\n\n
+                        *   Easy repayment terms\n\n
+                        *   Specially designed optional term insurance cover\n\n
+                        *   No security up to Rs. 4 lakhs\n\n
+                        The main emphasis is that every meritorious student is provided with an opportunity to pursue education with the financial support on affordable terms &amp; conditions.</string>
+    <string name="f41"> Gymnasium </string>
+    <string name="f42"> We want to help you live a fit and healthy lifestyle! We do this by helping you find the most suitable equipment for your home gym, studio or commercial gym, keeping your budget, lifestyle and fitness goals in mind. We stock a wide range of gym equipment, with strength equipment, cardio, cross training and so much more. Our awesome team is always keen to help, so please call us to discuss your needs.</string>
+    <string name="f43">  The Top 10 Benefits of Regular Exercise:\n\n
+                         *  It Can Make You Feel Happier.\n\n
+                         *  It Can Help With Weight Loss.\n\n
+                         *  It Is Good for Your Muscles and Bones.\n\n
+                         *  It Can Increase Your Energy Levels.\n\n
+                         *  It Can Reduce Your Risk of Chronic Disease.\n\n
+                         *  It Can Help Skin Health.\n\n
+                         *  It Can Help Your Brain Health and Memory.\n\n
+                         *  It Can Help With Relaxation and Sleep Quality.</string>
+    <string name="f44"> PURPOSE </string>
+    <string name="f45"> The institute is equipped with a number of indoor and outdoor sports facilities. Institute new sports complex is equipped with badminton court, Table Tennis tables, Pool tables Squash courts, Swimming pool, while Chess boards and Carom boards are available in the hostel common rooms. The institute also has a multi-purpose sports field, two tennis courts, a basketball court, a volleyball field with lighting facilities at the courts. Institute has also provided coach facility for students; institute self-growth activities include active participation from the students under various sports activities. </string>
+    <string name="f46"> Implementation </string>
+    <string name="f47"> The Department prides itself on developing programs and projects in partnership with the community that promote a series of benefits beyond the traditional aspirations of improved health and wellbeing. These include:\n\n
+                        *   Stronger and more connected communities\n\n
+                        *   Inclusion of minority social groups\n\n
+                        *   Diversion and education of at-risk youth\n\n
+                        *   Healthy child development and contact with nature\n\n
+                        *   Economic outcomes\n\n
+                        *   Education outcomes\n\n
+                        *   Tourism outcomes\n\n
+                        *   Environmental outcomes\n\n
+                         It\'s our belief that sport and recreation can be a vehicle for positive social change.\n\n
+                         Sport and recreation helps to bind families through shared experiences and shared achievements. Through participation, sport helps address anti-social behaviour and can support education. Sport and recreation contributes to economic growth through business investment and employment, and helps sustain the environment through protecting open space and natural areas. It also promotes the use of active modes of transport, such as cycling and walking.</string>
+    <string name="f48"> College Canteen </string>
+    <string name="f49"> College has spacious canteen facility in the college. A variety of south indian food and snack items are provided to the students and staff of the college with highest quality.\n\n
+                        Canteen has a big kitchen and kitchen staff take extra care to provide the students and staff with nutritious and hygienic food in the campus canteen. Food items are prepared with RO treated water. It also provides light refreshment like packed snack items, cakes, veg. puff, beverages etc to the students and staff of the college.\n\n
+                        Canteen is open from 8:00 AM to 4:30 PM on all working days.</string>
+    <string name="f50">  Stationary Stores\n\n
+                         All stationary items are made available in the stores at reasonable rates, fixed by the college management. </string>
+    <string name="f51"> Mineral Water (RO) Plant\n\n
+                        College has its own mineral water (RO) plant in the college campus. Entire college is supplied with the mineral water from the plant.</string>
+    <string name="f52"> Computer Centre </string>
+    <string name="f53"> Computer centre provides computational facilities to all users in the Institute. Students, staff and faculty from all departments, sections and centres in the campus can obtain accounts to access internet and email services. Computer centre also provides various advanced and special purpose softwares for all the campus users. The centre remains open from 8:00 am to 8:00 pm on weekdays and 9:00am to 5:00 pm on saturdays.\n\n
+                        Computer Centre is central place for campus-wide networking and Internet connectivity. Backbone connectivity initiates from this Centre and caters to more than 1000 nodes across the campus. Centre is equipped with Web Server, Academia Server, E- Mail Server, Security Wall, Bandwidth Management and Data Servers. The Computer centre has network infrastructure consisting routers,firewall,Unified threat management (UTM), manageable layer 2, layer 3 switches. Centre also houses cluster of Windows and Linux based servers for mailing and web application hosting. Fiber optic from local ISP terminates for Internet connectivity 32 Mbps (1:1) bandwidth and further emanates to the all departments/sections/hostels. The existing institute network has Fiber backbone whereby all departments/sections/hostels are connected with the computer centre.</string>
+    <string name="f54"> The Main Activities of these Centralized Computational Facilities:\n\n
+                        *   Provide, update, manage and ensure the smooth operation of computational facilities for the students, faculties and departments.\n\n
+                        *   Provide technical assistance to various users.\n\n
+                        *   Monitoring of the computer network and the management of overall computer facilities for the whole institute.\n\n
+                        *   Provide computer facilities for the institute administration.</string>
+    <string name="f55"> Health Care Facility </string>
+    <string name="f56"> The college provides health care facility to the students by providing First-Aid and other basic facilities and when required the separate room is earmarked the said facility.\n\n
+                        Doctors are available on call whenever the need arises. Medical facility is also extended to the physical education department of the college at the time of matches like volleyball, cricket, table tennis etc. Further more at the time of college outings first aid facility is available to the students.\n\n
+                        Medical facilities management is a specialized area of facilities management. Medical facilities managers ensure that healthcare facilities, such as surgical centers, clinics, public health organizations and hospitals, are properly cleaned, maintained and supplied. Managers also oversee implementation of new technology and energy efficiency initiatives. Depending on the size of the medical facility, the facilities manager might be in charge of renovations and expansion plans for buildings.\n\n
+                        Medical facilities management is a specialized area of facilities management. Medical facilities managers ensure that healthcare facilities, such as surgical centers, clinics, public health organizations and hospitals, are properly cleaned, maintained and supplied. Managers also oversee implementation of new technology and energy efficiency initiatives. Depending on the size of the medical facility, the facilities manager might be in charge of renovations and expansion plans for buildings.</string>
+    <string name="f57"> GIET CAMPUS WI-FI FACILITY </string>
+    <string name="f58"> The entire GIET campus is Wi-Fi enabled having 45 Mbps of JIO ILL &amp; 2 Mbps of BSNL LLB high speed internet connection has to allow the students &amp; staffs to access the internet facility no-matter wherever they are. The coverage of Wi-Fi 24X7 facility is not only restricted to class rooms but also extends to all the campus including library, Auditorium, cafeteria, Sports Complex and hostels. students get many facilities of e-mail, net surfing, up/down loading of web based applications and helps them in preparing projects and seminar presentations. All the websites browsed by him/her are regularly monitored.\n\n
+                        Internet facility is available for all systems in the whole campus. The entire campus is optically networked between buildings and cable within the buildings for connectivity. In addition, Wi-Fi facility is provided in all the buildings. Dedicated bandwidth of 45 Mbps is taken from a single source. In addition each building /department of importance like examination center, remote center for online workshops, placement cell, and library have dedicated bandwidth of 5 Mbps.\n\n
+                        21st Century belongs to "the era of Web information" as the Internet plays an essential role in today\'s life. The need and importance of Internet in the field of education is supported by round the clock high speed Internet connectivity of 45Mbps 1:1 and has strong backbone of dedicated OFC link throughout the campus with the help of which the students can surf the Web. Thus, they can enhance their knowledge as well as extract unlimited e-Information.</string>
+    <string name="f59"> Campus Security </string>
+    <string name="f60"> Prospective students should take campus security into account when choosing a program. Campus security systems differ between schools, but students and parents can access resources to help them review the effectiveness of any school\'s security. Most universities have college police departments dedicated to providing students, faculty, and staff with a safe place to live, study, and work. Each campus safety program has its own unique features, specific to that school and the surrounding area.\n\n
+                        Some campus police departments offer trainings in self-defense and sexual abuse awareness, and campus safety websites help inform students on how to report crimes, and provide resources on rape, domestic violence, and other violent situations, such as active shooters on campus. Many colleges also provide escort services to students and staff members, through which campus patrol officers escort individuals who feel uncomfortable walking to their car or destination alone, specifically during evening hours.
+                        </string>
+    <!-- Long text -->
+
+    <!-- Training & Placement Cell -->
+    <string name="tnp"> Training &amp; Placement </string>
+    <string name="tnp1"> The cell maintains a branch-wise record of all students that includes individual career growth including both weaknesses and strength collected from past and current performance. Based on the same the department faculties in association with the T&amp;P cell tries to improvise the qualities of the poor performers.\n\n
+                         Based on the requirements prescribed by the company, the eligible candidates are invited for appearing for the test/interviews that are conducted by the visiting companies. Need based value added courses have been included besides offering the BPUT curriculum. Such courses include : Oracle 9I, JAVA, .Net, C, C++, BEC etc.\n\n
+                         Invitations are sent regularly to the prospective companies / organizations along with all relevant information to participate in the campus recruitment. Regular correspondence is maintained with various industries. Personal visits by the Training and Placement Officer, to many companies also serves to build and maintain relations with the companies.</string>
+    <string name="tnp2"> Other Activities include </string>
+    <string name="tnp3"> *  Periodic conduction of IQ tests.\n\n
+                         *  Preparation of FAQ Database and Open access of the same by students.\n\n
+                         *  Arrangement of Personality Development Workshops.\n\n
+                         *  Trains students in aptitude tests, interview techniques, group discussions.\n\n
+                         *  Notification regarding various competitive examinations.\n\n
+                         *  Organizes industrial visits.\n\n
+                         *  Guides students wishing to pursue Higher Education.\n\n
+                         The T &amp; P cell looks after all arrangements to be made for the purpose of conducting campus interviews including everything from, the Pre-Placement Talk, to the written tests, to the final interviews. The Training and Placement Cell firmly believes in taking feedback from the companies that have visited since the feedback from the company serves as a yardstick regarding the performance of the students. This helps the Training and Placement Cell in concentrating on various areas for improvement in the students. We believe that our students are like uncut diamonds that need to be guided in the right direction to acquire their luster. Besides, the cell maintains a branch -wise list of industries and encourages students to approach the companies independently in case that particular company does not have a policy of Campus Recruitment.</string>
+    <string name="tnp4"> Training and placement office </string>
+    <string name="tnp5"> A full fledged Training &amp; Placement office, headed by Mr. Baidyanath Panigrahi, periodically plans and programs, aimed at placing students in various National and Multi-National Companies. The Placement Committee consists of the Training and Placement Director. and Placement Coordinates of various departments, which coordinates with student representatives, works as a team to prepare the students for the corporate expectations and to invite corporate sectors to conduct on campus and joint campus selection process at out college. </string>
+    <string name="tnp6"> Training and Development </string>
+    <string name="tnp7"> To fulfill the ever growing corporate needs and expectations from the students. Training and development is becoming inevitable and the result is quite evident.Considering the fact in mind, we conduct training &amp; development programmes not only for soft skills and aptitude skills but we also give due importance for communication skills and technical skills development according to the latest trends and fast growing competitive world needs. As a result of out continuous efforts and good performance form the student end, our students get very good career opportunity in various corporate. </string>
+    <string name="tnp8"> Major functions of placement office </string>
+    <string name="tnp9">    1.  Conducting Campus Interviews\n\n
+                            2.  Organizing Personality Development Programs\n\n
+                            3.  To establish an Entrepreneurship Development Center to transform the Job Seekers into Job-Givers.\n\n
+                            4.  Industry Institute-Interaction Meet\n\n
+                            5.  Arranging Industrial Visits and Guest Lectures\n\n
+                            6.  To invite dialogue with various corporate sectors to explore the common areas of interest to sign MOUs\n\n
+                            7.  Arranging Off-campus Interviews\n\n
+                            8.  Organizing the Alumni Meet.\n\n
+                            9.  Strength of placement office\n\n
+                            10. To conduct the campus selection process and joint campus selection programs successfully to the satisfaction of the corporate and participating colleges and to conduct various corporate training programs &amp; seminars the placement office is strengthened with the following infrastructure facilities.\n\n
+                            11. Conference Hall to conduct the corporate meets, high-level meeting and discussions.\n\n
+                            12. Seminar Hall to conduct corporate training programs &amp; seminars for both students and faculty wherein we can accommodate 100 members comfortably.\n\n
+                            13. Auditorium with the LCD, mike &amp; speaker facilities, to conduct the campus selection and joint campus selection programs successfully.\n\n
+                            14. LAN &amp; High speed network facility to conduct the online campus selection. S A Engineering College has a fleet of buses, the services of which can be utilized to enable the students and parents to reach our campus in time at the time of joint campus / off-campus selection process involving a number of colleges in and around the city.\n\n
+                            15. Industry institution interaction\n\n
+                            16. To conduct the campus selection process and joint campus selection programs successfully to the satisfaction of the corporate and participating colleges and to conduct various corporate training programs &amp; seminars the placement office is strengthened with the following infrastructure facilities\n\n
+                            Training and Placement Cell of Gandhi Institute for Education and Technology, sincerely believes in comprehensively training the students to face the corporate world and have a successful professional career. The department of this college provides guidance and all the assistance to the students in order to achieve their career goals. The unit takes right steps in identifying the demands of the current industry and prepares the students towards this need. Extra care is taken to design and train the students to make them ready for the industry and develop the students to face the corporate world confidently.Imparting training programs with the help of reputed training Institutes, enables the students to gain a competitive edge in the recruitment process, groom their confidence and develop their personality.\n\n
+                            The department runs successfully because of a cohesive team comprising of:\n\n
+                                1.      Mr. Baidyanath Panigrahi, E-Mail- baidyanath04@gmail.com, Mob no. 9437146959\n\n
+                                2.      Mr. Sunil Kumar Sahoo, E-Mail- ssunilkumar@gietbbsr.com, Mob no. 7008249002\n\n
+                                3.      Ms.Dibyasini Debta, E-Mail- dibyasinidebta@gietbbsr.com, Mob no. 9437490759 </string>
+    <string name="tnp10"> PRE-PLACEMENT TRAINING PROGRAM </string>
+    <string name="tnp11">   The Pre Placement Training aimed at sharpening the skills of individual\'s for success in placement tests. The program spans across days with experts with relevant experience from the industry enabling the transition from college life to corporate ready individuals. A perfect blend of soft skills and relevant information ensures that the students develop confidence and are ready to face the selection process.\n\n
+                            All companies which recruit students from various technical institutes look for different technical skills and personality traits before making an offer to the students. In order to sharpen their technical skills and polish their communication skills and make them ready for the corporate world, GIET offer different training programmes which are tailor-made for each student. These programs aim at preparing the students from a campus point of view.\n\n
+                            The training is divided as:\n\n
+                            First Year:\n\n
+                            Communicative English, Personality Development\n\n
+                            Second Year:\n\n
+                            Finishing Course, Accent Training - Right Diction, Technology Skills - Oracle, Java, Linux, Summer Training	- Visit to Industry\n\n
+                            Third Year:\n\n
+                            Pre Placement Training
+                            Arithmetic, Reasoning, General English
+                            C, C++, DS, OS, RDBMS, Java, IBM (DB2, RAD &amp; Tivoli)
+                            Group Discussion Techniques,
+                            Personal Interview-Technical and HR,
+                            Campus connect program by Infosys,
+                            Campus oriented brush up session,
+                            Core Branch Training,
+                            Mock Test / Very Similar Tests Done\n\n
+                            Fourth Year:\n\n
+                            Campus drive starts</string>
+    <string name="tnp12"> Connected Companies </string>
+    <string name="tnp13"> The following companies are regularly came to our Institute for campus drive:\n\n
+                            1.  Infosys\n\n
+                            2.  JK Tires\n\n
+                            3.  Tech Mahindra\n\n
+                            4.  Zycus\n\n
+                            5.  HCL\n\n
+                            6.  TCS\n\n
+                            7.  Hexaware Technology\n\n
+                            8.  Cognizant\n\n
+                            9.  Tata Motors\n\n
+                            .....and many more</string>
+
+    <!-- admission procedure -->
+    <string name="ad"> ADMISSION PROCEDURE </string>
+    <string name="ad1"> Applying to college can feel like a full-time job, especially if you’re applying to colleges with different admissions requirements. Specific college admissions requirements vary from college to college (always check with the ones you are applying to!), but luckily the basics are largely the same. There’s lots involved, so make sure you take care of all the details the college application requires.\n\n
+                        1. Fill out the application.\n\n
+                            As part of the admissions process, you’ll be required to fill out some basic application paperwork, which will include personal information about yourself and your high school career, like extracurricular activities you participated in.\n\n
+
+                        2. Write the admissions essay.\n\n
+                            You will also have to write an admissions essay when applying to college. Usually the school will provide a number of prompts for you to choose from. In some cases, you may be able to choose your own topic. Be sure to proofread your college admissions essay carefully.\n\n
+
+                        3. Gather supplemental materials.\n\n
+                            Supplemental materials may include items like a portfolio of personal work or a supplemental essay. In some cases, supplemental materials can help your application, but in other cases they can hurt your chances of admission. Be sure to carefully consider whether the supplemental materials or supplemental essays are a good idea for your application.Some colleges also require college recommendation letters. These usually can come from teachers who are familiar with your work. Some students may also get recommendations from coaches, church leaders, community service organizers, or other adults who can attest to the student’s skills and work ethic.\n\n
+
+                        4. Interview for admission (if necessary).\n\n
+                            A student interview may be required in some cases, but usually for undergraduate admission this is not the case. Still, some schools will be willing to schedule a student admissions interview upon request. International students may find a student interview especially important.\n\n
+
+                        5. Receive your acceptance letter!\n\n
+                        Even if you’ve started getting acceptance letters, the process of applying to college is not complete! Once you are done deciding which university you would like to attend, you’ll have to let the school know that you have decided to accept its offer of admission. After this, there will be even more paperwork to sort out, like filling out housing forms and signing up for campus meal plans. The school should send you all the information and paperwork you need.</string>
+    <string name="ad2"> Welcome to GIET admission portal. To take admission in GIET, different under graduate and post graduate program have different rules like: </string>
+    <string name="ad3"> B.Tech </string>
+    <string name="ad4"> M.Tech </string>
+    <string name="ad5"> Diploma </string>
+
+    <!-- B.tech Admission Rules -->
+    <string name="ad6"> ADMISSION PROCEDURE - B TECH </string>
+    <string name="ad7"> Admission Procedure :\n\n
+                        Admission into B.Tech courses of the Biju Pattnaik University of Technology (BPUT), Rourkela, Orissa shall be based on criteria decided by the academic council of the University. There shall be provision for direct admission for a limited of NRI students. The University (BPUT) and the examination conducting authority Odisha Joint Entrance Examination shall adopt the eligibility criteria as specified by AICTE.\n\n
+                        The student should at least have qualified in one of the entrance examinations of JEE (Main) - 2016. Admission of a total 100% of seats in B.Tech courses are taken from the merit list of JEE (Main)-2016 only conducted on all India basis by CBSE , New Delhi , Govt of India , however the final distribution of seats , as per the decision of Govt. Of Orissa Policy Planning Body.\n\n
+                        JEE (Main) -2016 Entrance Examinations is an entrance examination for admission top several BE and B.Tech courses offered by most of the engineering institutes across the country. Specially for NITs and IITs. JEE (Main) 2016 , conducted by Central Board of Secondary Education (CBSE), is considered to be a highly competitive examination for those aspiring to get admission in top grade colleges in country.  </string>
+    <string name="ad8"> ELIGIBILITY FOR B. TECH COURSES ( 4 YEARS) </string>
+    <string name="ad9"> Passed or appearing in 2016, 10+2 examination of CHSE, Odisha or equivalent with Physics and Mathematics as compulsory subjects along with one of the subjects from Chemistry / Biotechnology / Biology/ Electronics / Computer Science / Information Technology/ Geology / Statistics. The candidate should have passed individual subject and must have obtained at least 45% marks (40% in case of candidate belonging to SC/ST category) in the above subjects taken together.</string>
+    <string name="ad10"> ELIGIBILITY FOR B. TECH LATERAL ENTRY STREAM </string>
+    <string name="ad11"> For admission into 2nd year Degree courses in Engineering/Technology courses under Lateral Entry for Diploma holders:\n\n
+                         Passed or appearing in 2016 in diploma examination in Engineering from State Council of Technical Education and Vocational Training (SCTE&amp;VT), Odisha or equivalent with at least 45% marks (40% in case of candidates belonging to SC/ST category) in appropriate branch of Engineering / Technology only through Odisha Joint Entrance Examination -2016(OJEE-2016)\n\n
+                            1. The candidate must be a native of Odisha. Results of final diploma examination must be available on the date of document verification. Candidates, whose results are not available on the day of document verification, will not be allowed to participate in the counselling process.\n\n
+                            2. There is no reservation of seats in various categories in lateral entry to degree Engineering/Technology(B.Tech)courses.\n\n
+                            3. The candidate must submit the Permanent Residence Certificate (Appendix - I) at the time of document verification. The candidate has to submit the Permanent Residence certificate in the prescribed format i.e., Appendix-I issued not earlier than January 2016. Further the students having rank in lateral entry shall also be eligible for admission to the first year class subject to vacancies in the first year class in case the vacancies in lateral entry are exhausted. However the admission shall be based strictly on the basis of OJEE- 2016 rank only.\n\n
+                            4. There is no age limit to admission to this course. </string>
+    <string name="ad12"> ELIGIBILITY FOR APPEARING IN EXAMINATION \n\n
+                            General Candidates ----	Born or after October 01, 1990\n\n
+                            Scheduled Caste (SC)/Scheduled Tribe(ST)/Person with Disabilities (PwD) --- candidates	Born or after October 01, 1985\n\n
+                            Note- Date of birth as recorded in the Secondary Education Board/University certificate will only be considered.</string>
+    <string name="ad13"> YEAR OF APPEARANCE IN QUALIFYING EXAMINATION\n\n
+                            Only those candidates who have passed their Class 12th Exam or any equivalent qualifying examination in 2014 or 2015: or those who are appearing in their Class 12th Exam or any equivalent qualifying examination in 2016 are eligible to appear in JEE (Main) 2016. Candidates who passed Class 12th/Qualifying examination in 2012 or before as well as those who will appear in such examination in 2016 or later are not eligible to appear in JEE (Main) â€“ 2016. The candidates who appeared in class 12th/ equivalent qualifying Examinations in 2012, did not pass in 2013, but passed in 2014 are also not eligible to appear in JEE (Main) 2016.\n\n
+                            The candidates willing to appear for improvement examination of class 12th in 2016 have to appear in all the 4/5 subjects as per the scheme of study of the concerned board. Further, they may also note that in the percentile system, the total marks (of all five subjects) obtained/shown on the mark-sheet of a particular year are required in JEE (Main) and also in JEE (Advanced). The marks from two different year\'s (i.e. marks for 3 subjects from year 2015 and marks for other 2 subjects from 2016) mark-sheets cannot be considered for percentile calculation. </string>
+    <string name="ad14"> FEES </string>
+    <string name="ad15"> The entire academic fee Rs 1,20,000 for an academic year (i.e. two semesters) is payable at the beginning of the academic year.\n\n
+                         The Fee should be paid through a/c payee demand draft only in favour of the Institute.\n\n
+                         The fee is according to the guidelines prescribed by the Government of Orissa.\n\n
+                         The fee is according to the guidelines prescribed by the Government of Orissa and as fixed by Fee Structure Committee.\n\n
+                         For general Enquiry mail us at info@gietbbsr.com </string>
+    <string name="ad16"> Admission Helpline </string>
+
+    <!-- Diploma Admission Rules -->
+    <string name="ad17"> ADMISSION PROCEDURE - DIPLOMA </string>
+    <string name="ad18"> Admission to 1st Semester Diploma course in Engineering:\n\n
+                         The Diploma Entrance Test (DET)-2015 for admission to 1st Semester Diploma Courses in Engineering/ Technology, Lateral Admission of the State Candidates to 3rd Semester Diploma Engineering Courses and 1st semester/ 1st year Non-Engineering Diploma Courses will be conducted on 17.05.2015 (Sunday) at selected centers inside and outside the State.  </string>
+    <string name="ad19"> ELIGIBILITY </string>
+    <string name="ad20"> Admission to 1st Semester of Engineering / Technology :\n\n
+                        (1) Pass in HSC examination conducted by BSE, Odisha/ 10th standard examination declared equivalent by BSE, Odisha and obtained at least 35% marks at the qualifying examination with pass in both Math &amp; Science subject.\n\n
+                        (2) Age:Must have lower age is 16 years and no upper age limit.\n\n
+                        (3) Reservation: Reservation under different categories will be applicable for Odisha State candidates only as per norms specified by Government of Odisha.\n\n
+                        (4) Outside State Candidates: Outside State candidates fulfilling eligibility criteria are also eligible to appear in the Diploma Entrance Test for admission to 1st Semester of 3 year Diploma Engineering Courses against 15% seats reserved for them in Private Engineering Schools &amp; Polytechnics only. Outside State Candidates are not eligible for Lateral admission to 3rd Semester.\n\n
+                            For more details please visit : www.detodisha.nic.in</string>
+    <string name="ad21"> FEES </string>
+    <string name="ad22"> The entire academic fee for an academic year (i.e. two semesters) is payable at the beginning of the academic year.\n\n
+                         The Fee should be paid through a/c payee demand draft only in favour of the Institute.\n\n
+                         The fee is according to the guidelines prescribed by the Government of Orissa.\n\n
+                         The fee is according to the guidelines prescribed by the Government of Orissa and as fixed by Fee Structure Committee.\n\n </string>
+
+    <!-- M.tech Admission Rules -->
+    <string name="ad23"> ADMISSION PROCEDURE - M TECH (P. G.) </string>
+    <string name="ad24"> Admission into M.Tech courses of the Biju Pattnaik University of Technology (BPUT), Rourkela, Orissa shall be based on criteria decided by the academic council of the University. There shall be provision for direct admission for a limited of NRI students. The University (BPUT) and the examination conducting authority Odisha Joint Entrance Examination shall adopt the eligibility criteria as specified by AICTE.\n\n
+                         Odisha Joint Entrance Examination (OJEE) is an entrance examination for admission to a number of professional courses in engineering and etc in the professional colleges of Odisha.. The date of Odisha Joint Entrance Examination will be held on 8th May-2016 The online registration for OJEE-2016 please visit the website: www.odishajee.com\n\n
+                         For M.Tech, the reservation is as given below :\n\n
+                         a)	5% seats are reserved for NRI in Private Professional Colleges. No NRI seats are reserved for Government Colleges offering M.Tech.\n\n
+                         b)	If candidates are less than 5% in NRI in Private Professional Colleges, the balance seat will be transferred to the general seat and allotment will be done as per general merit.\n\n
+                         c)	After deducting the NRI seats 50% of the remaining seats will be allocated to All India Post Graduate Aptitude Tests (GATE &amp; GPAT) and remaining 50% to GPAT candidates.\n\n
+                         d)	If candidates are less than 50% in GATE/GPAT score, the balance seat wills be transferred to the GPAT and allotment will be done as per general merit.\n\n
+                         e)	All the candidates claiming seat under GATE/GPAT should produce Valid GATE/GPAT score card in original during counselling process.\n\n
+                         For M.Tech streams, the candidates belonging to categories SC/ST can also compete under general category provided they satisfy all conditions of eligibility for the same.\n\n
+                         Scheduled Caste 8% &amp; Scheduled Tribe 12%\n\n
+                         There is no age limit to for admission to M.Tech (Regular) course.\n\n
+                         For more information regarding admission through Orissa JEE please visit : www.odishajee.com or www.ojee.nic.in </string>
+    <string name="ad25"> ELIGIBILITY FOR M. TECH. COURSES (REGULAR) </string>
+    <string name="ad26"> Passed or appearing in 2016, Bachelor\'s Degree of examination in the relevant field from any University of Odisha or from an AICTE approved Institute or from a recognized University as defined by UGC. The candidate should have obtained at least 50% marks (45% in case of candidate belonging to SC/ST category) at the qualifying examination.\n\n
+                         Choice of Specialisation: Candidates having Bachelor in Engineering in the discipline indicated in Column-I are eligible to be admitted to their corresponding discipline only mentioned in Column-II of Table-XIV of information brochure of OJEE-2016 based on merit list.</string>
+    <string name="ad27"> FEES </string>
+    <string name="ad28"> The entire academic fee for an academic year (i.e. two semesters) is payable at the beginning of the academic year.\n\n
+                         The Fee should be paid through a/c payee demand draft only in favour of the Institute.\n\n
+                         The fee is according to the guidelines prescribed by the Government of Orissa.\n\n
+                         The fee is according to the guidelines prescribed by the Government of Orissa and as fixed by Fee Structure Committee.\n\n
+                         For general Enquiry mail us at info@gietbbsr.com</string>
+    <string name="ad29"> B.Tech Helpline </string>
+    <string name="ad30"> Diploma Helpline </string>
+
+    <!-- college function -->
+    <string name="fn1"> SPARKLE </string>
+    <string name="fn2"> GARIMA </string>
+    <string name="fn3"> Sparkle is the annual social and cultural festival of Gandhi Institute for Education and Technology,Bhubaneswar held during the month of February in the spring semester. The first edition was held in 2009 and since then it has grown to be one of the largest student run college fest in Odisha.\n\n
+                        During the fest, students from GIET and from different colleges all over the state participate in a multitude of social and cultural activities.\n\n
+                        The ambit of the events encompasses various genres like,\n\n
+                        Dance\n\n
+                        Photography\n\n
+                        Dramatics\n\n
+                        Song\n\n
+                        Literature\n\n
+                        Fine Arts\n\n
+                        Quizzing ......and more</string>
+    <string name="fn4"> Over the years, it began to attract participants from the neighbouring colleges of Odisha and as well as abroad.\n\n
+                        garima is the techno-management fest of Gandhi Institute for Education and Technology, Bhubaneswar. It is started in the year 2010, the idea of Garima was conceived with the aim to provide the technically inclined youth a national-level platform, where their talent and expertise would be recognized and duly rewarded.\n\n
+                        Robo War\n\n
+                        Treasure Hunt\n\n
+                        Source Code\n\n
+                        Tech4Fun\n\n
+                        Mobile Games\n\n
+                        Exhibitions\n\n
+                        Robonext\n\n
+                        Over night\n\n
+                        Eureka....and more</string>
+
+    <!-- contents of club -->
+    <string name="c"> CLUBS &amp; COMMITTEE </string>
+    <string name="c1"> Sports Club </string>
+    <string name="c2"> Code Club</string>
+    <string name="c3"> Robotics Club </string>
+    <string name="c4"> Innovation Club </string>
+    <string name="c5"> Music Club </string>
+    <string name="c6"> Art Club </string>
+    <string name="c7"> Dance Club</string>
+    <string name="c8"> Social Club </string>
+    <string name="c9"> Photography Club</string>
+    <string name="c10"> Hobby Club</string>
+    <string name="c11"> Scholarship Cell </string>
+    <string name="c12"> Student Council </string>
+    <string name="c13"> Swachh Bharat Abhiyan Cell </string>
+    <string name="c14"> Anti-Ragging Committee </string>
+    <string name="c15"> A sports club or sporting club, sometimes athletics club or sports society or sports association, is a group of people formed for the purpose of playing sports.\n\n
+                        Sports clubs range from organisations whose members play together, unpaid, and may play other similar clubs on occasion, watched mostly by family and friends, to large commercial organisations with professional players which have teams which regularly compete against those of other clubs and attract sometimes very large crowds of paying spectators. Clubs may be dedicated to a single sport or to several (multi-sport club).</string>
+    <string name="c16"> Most sporting events are common to all, such as Athletic track-n-field events, Cricket, Football, Rugby, Tug-of-War, Basketball, Volleyball, etc. A few colleges, depending on the infrastructure available, may also include sports such as swimming, polo, water polo, etc.\n\n
+                        so the sports here included are:\n\n
+                        1. Football\n\n
+                        2. Cricket\n\n
+                        3. kho kho\n\n
+                        4. Kabadi\n\n
+                        5. Handball\n\n
+                        6. Basket Ball\n\n
+                        and many more....</string>
+    <string name="c17"> passionate for good teaching and improving quantitative skills. We believe that coding can be really fun and also understand the importance of quantitative skills for professional development. We organise weekly workshops, complemented by online tutorials. Coding Club is for everyone, regardless of their career stage or current level of R knowledge.\n\n
+                        Coding Club is for everyone keen to learn about programming and statistics and how these skills can be applied in research. We want to create a jolly and diverse community where everyone has a voice and feels comfortable to express it. Our own team includes people from different backgrounds and nationalities and we are so happy to be working together. We want to establish the same ethos within Coding Club as a whole: Coding Club is a place that brings people together, regardless of their gender or background. We all have the right to learn, and we believe learning is more fun and efficient when we help each other along the way.\n\n
+                        The coding activities are:\n\n
+                        Source code\n\n
+                        Night source\n\n
+                        Paper code\n\n
+                        coding flow\n\n
+                        ....and many more.</string>
+    <string name="c18">
+                        ABOUT THE CLUB:\n\n
+                        Roboneers club is a place where we make robots together and discuss about them. These robots may be quite simple (eg. A pick and place mechanism) or quite complex (eg. a biped robot) and manually or autonomously operated (most tasks can be accomplished using both manually and autonomously operated robots). The club provides workspace, tools, intellectually stimulating conditions and people to help you out if you have any problems.\n\n
+                        OBJECTIVE OF THE CLUB:\n\n
+                        The eventual aim of the club is to lift up that spirit of engineering within each one of us. The whole essence of engineering lies in the spirit of innovation, the spirit of designing systems on our own. This process of working on our own gives a lot of satisfaction. So let us together reload within us that spirit of innovation which has been lying untapped for all these years.\n\n
+                        Robotics, or if we go to a superset of it -Mechatronics is a field that is at the intersection of varied engineering disciplines - Mechanical Engineering, Electrical, Electronics as well as Computer Science to name a few. One will learn skills ranging from electronics, mechanics, controls, programming, and even as broad as understanding animal behavior and human psychology. It will be very interesting and exciting for us, the students, to experiment at this intersection on a technical, applied and design level. So by setting up the club we get a chance to apply the knowledge we gain in the classroom through various lectures, in real-world scenarios. In brief, it is an opportunity to apply knowledge creatively, to see how systems interact, both with each other and with the environment. So the aim in starting the Robotics club is to inculcate within ourselves the habit of “thinking technologically ".</string>
+    <string name="c19"> ACTIVITIES OF THE CLUB (DONE): \n\n
+                        1. Robotics awareness programs\n\n
+                        2. Short term trainings\n\n
+                        3. Workshop on basic of robotics\n\n
+                        4. Inter college competition on manual robotics\n\n
+                        5. long term training programs (3 month)</string>
+    <string name="c20"> Objectives:\n\n
+                        1. To keep students updated with latest technologies and inventions by two way communication.The two way communication will be conducted in the mode of power point presentations, poster presentations, animated videos, natural videos, etc. which will be helpful to develop the technical as well as the communication skills of the students.\n\n
+                        2. To introduce real life examples as well as the applications of the subject matter taught in classes.\n\n
+                        3. To teach to write technical paper of different standards as well as making us able to study and do research on topics of individual interest.\n\n
+                        4. To Keep track of different technical seminars and conference going to be conducted in different institute in order to motivate our students to participate in them providing them required guidance.\n\n
+                        5. To arrange sessions where seniors or batch mates will be invited to enlighten the students with topics of their expertise.\n\n
+                        6. To arrange some interaction sessions with the alumni’s to share their experience.\n\n
+                        7. To develop self-confidence among the students and will work to make the students prepared for the placement drives. </string>
+    <string name="c21"> TENTATIVE EVENT LIST:\n\n
+                        1. Technical Presentation by members as well as other interested students.\n\n
+                        2. Sharing of important information about different seminars, conferences &amp;making them prepare for it.\n\n
+                        3. Creating awareness about research and develop a sense of research orientation among students through different presentation related to introduction to research.\n\n
+                        4. Sessions on successful/innovative project works carried out by members and other senior students.\n\n
+                        5. Paper Presentation by students who have participated in conferences/seminars.\n\n
+                        6. Technical Quiz Competition.\n\n
+                        7. Group Discussion on different technical events.\n\n
+                        8. Question &amp; Answers discussion on various technologies.\n\n
+                        9. Treasure hunt based on technical knowledge.\n\n
+                        10. Model Presentation.</string>
+    <string name="c22"> ABOUT THE CLUB:\n\n
+                        The Music Club has been set up to encourage talent in music- instrumental as well as vocal.  This is a student-run club which was formed in 2011. Members participate in all the cultural activities of the college and also in the inter-college and intra-university functions. All interested and talented students are encouraged to join as members.\n\n
+                        OBJECTIVE OF THE CLUB:\n\n
+                        To help students retain and enhance their own, individual love of music.</string>
+    <string name="c23"> ACTIVITIES OF THE CLUB (PLANNED):\n\n
+                        1. Singer Selection for The Band\n\n
+                        2. RHYTHM Show\n\n
+                        3. Antakshari Contest\n\n
+                        4. Intra University song competition\n\n
+                        5. Music Show by Fresher </string>
+    <string name="c24"> The GIET Art Club operates with two goals in mind.  The first is to make the art room available to all students. Those who wish to do artwork on a regular basis, no matter what grade they are in, are encouraged to participate in the Art Club.\n\n
+                        The second goal is to give students a chance to explore their own art interests. The artwork done in class is usually an assigned project but the Art Club affords students the time to do artwork of their own choice.\n\n
+                        Toward the end of each semester all the art students exhibit their work in the GIET Art Fair.  Students then select a few outstanding pieces from all the work exhibited.  After the second semester Art Fair the best work from both exhibits are judged by faculty members who award a first, second, and third place finish for each grade.  The winners are announced and certificates are awarded at the Award Ceremony.\n\n
+                        The art competition involved are:\n\n
+                        Painting.\n\n
+                        Drawing.\n\n
+                        Printmaking.\n\n
+                        3D Art &amp; Sculpture.\n\n
+                        Watercolor Techniques.\n\n
+                        Stained Glass &amp; Suncatchers.\n\n
+                        Clay and Playdough.\n\n
+                        Collage</string>
+    <string name="c25"> ABOUT THE CLUB:\n\n
+                        To encourage students for dance performances.\n\n
+                        OBJECTIVE OF THE CLUB:\n\n
+                        To let everybody know about the dancing spirit, to enhance extra-curricular activity, also to develop career in dancing profession those who have the passion for dance.\n\n
+                        ACTIVITIES OF THE CLUB (DONE):\n\n
+                        College dance competitions &amp; participation in other college programs. Regular weekly dance classes by experts.\n\n
+                        ACTIVITIES OF THE CLUB (PLANNED):\n\n
+                        To perform outstanding dance performances.\n\n
+                        ACHIEVEMENTS OF THE CLUB:\n\n
+                        Won 3rd prize in GIET, Bhubaneswar\n\n
+                        TIMING OF THE CLUB:\n\n
+                        FRIDAY- 2:30PM TO 5:30PM
+                        SATURDAY- 10:00AM TO 1:00PM </string>
+    <string name="c26"> A social club may be a group of people or the place where they meet, generally formed around a common interest, occupation, or activity. \n\n
+                        Generally, social clubs are membership organizations primarily supported by funds paid by their members. In order to qualify as a tax-exempt organization, a social club must meet the following requirements:\n\n
+
+                        1. Membership is limited\n\n
+                        2. Organized for pleasure, recreation, and other non-profitable purposes\n\n
+                        3. Substantially all of its activities must further those purposes\n\n
+                        4. Must provide an opportunity for personal contact amongst members; there must be a “commingling” of the members for social, recreational, or similar purposes\n\n
+                        5. Supported by membership fees, dues, and assessments\n\n
+                        6. Net earnings may not inure to the benefit of any person having a personal and private interest in its activities\n\n
+                        7. May not hold itself out as providing goods and services to the general public\n\n
+                        8. Cannot provide pleasure or recreation on a commercial basis\n\n
+                        GIET supports the social clubs like:\n\n
+                        1. College fraternities and sororities\n\n
+                        2. Country clubs\n\n
+                        3. Amateur hunting, fishing, tennis, swimming and other sport clubs\n\n
+                        4. Hobby clubs\n\n
+                        5. Yacht clubs</string>
+    <string name="c27"> Photography Club of BPUT University is a platform to bring together the like minded people and share knowledge about the art and science of Photography. The club encourages students to study light and imparts tips on composition.\n\n
+                        The club organises activities that give a chance to learn photography, utilise their camera to the fullest and become sensitised to the world around.\n\n
+                        The club “focuses” on interaction between experts and students in addition to enhancing peer learning in photography and build an environment to capture memories forever.\n\n
+                        ACTIVITIES PROMOTED:\n\n
+                        1. Information about cameras and accessories\n\n
+                        2. Basics of Photography\n\n
+                        3. Using light to advantage\n\n
+                        4. Tips and Tricks of photography\n\n
+                        5. Photography Workshops</string>
+    <string name="c28"> The Hobbies Club at Gandhi Institute for Education &amp; Technology, is the only one of its kind amongst all the Engineering colleges. It aims at facilitating activities like Photography, Philately, Star Gazing etc. which are normally beyond the reach of any student. The hobbies club council is headed by a Chief Adviser and a general secretary (student representative). Further each section has its own personnel and technicians for proper working. The personnel consist of a Staff Adviser supported by  one Secretary and a Joint Secretary, who are selected from amongst the members. This Administrative Hierarchy ensures active student participation as well as the smooth running of the Hobbies Club. The hobbies club also hosts India\'s some of the most talked about events like SRISHTI which is an all India contest encompassing technical institutes and educational institutions across the country.\n\n
+                        1. Design Studio\n\n
+                        2. Electronics\n\n
+                        3. Fine Arts\n\n
+                        4. Gardening\n\n
+                        5. Models and Robotics\n\n
+                        6. Philately and Numismatics\n\n
+                        7. Photography\n\n
+                        8. Star Gazing\n\n
+                        9. Web Designing </string>
+    <string name="c29"> SCHOLARSHIP:\n\n
+                        A college scholarship is easier to get than most of the students and parents think. A scholarship is really a boon for students whose financial conditions are not apt but they want to continue their study. Also, seeing the cost associated with all the professional courses today, every family cannot bear the cost of higher education and so it is very important to know how to get a college scholarship to ease out this problem.\n\n
+                        Following are the list of scholarships which are forwarded under the strict guidance of this college authorities. Students are advised to scrutinize their scholarship forms in respect of account number, resident proof, income and academic result, before submitting for sanction to the college\n\n
+                            1. Prerana Scholarship \n\n
+                            2. Post Matric scholarship for ST Students - 2012-13 - JHARKHAND STATE TRIBAL COOPERATIVE DEVELOPMENT CORPORATION LTD\n\n
+                            3.	Merit-cum-Means scholarship for Minority students\n\n
+                            4.	Maulana - Abdul Kalam scholarship for Minority students\n\n
+                            5.	Sahu Jain Trust scholarship\n\n
+                            6.	Indian Oil Merit-cum Means scholarship\n\n
+                            7.	ONGC Merit-cum-Means scholarship\n\n
+                            8. Medhabruti for General Category Students\n\n
+                            9. Central Sector Merit Scholarship Scheme for different states\n\n
+                            10.	CBSE scholarship for different states\n\n
+                            11.	NTPC scholarship for Diploma Candidates\n\n
+                            12.	L &amp; T Scholarship for Graduate students who intends for further studies\n\n
+                            13.	NHFDC (National Handicapped Finance &amp; Development Corporation) scholarship-2013\n\n
+                            14.	PM Scholarship for the ward of Armed Forces retired personnel\n\n
+                            15. Scholarship for students -Bihar\n\n
+                            16.	Sophia Scholarship\n\n
+                            17.	ONGC Scholarship\n\n
+                            Apart from the above, different companies where the parents of our students works, can avail the benefit of scholarship from their respective Organization, which are routed through the college. </string>
+
+    <string name="c30"> The primary purpose of the Student Counseling Service is to enable students to become more effective in their lives within and outside the campus. College can be an exciting place, though at times it may become overwhelming and stressful.\n\n
+                        Our mission at the Counseling Centre (CC) at G.I.E.T Baniatangi is to promote the mental health of all our students, to improve their quality of life and create a learning environment that facilitates their individual development.\n\n
+                        Academic Counseling Includes Following Facilities:-\n\n
+                        1. Proctor facilities\n\n
+                        2. Class teacher facilities\n\n
+                        3. Disciplinary committee\n\n
+                        4. Academic support- remedial classes\n\n
+                        As specialists working with students, our staffs are helping students to address whatever it is that may be of concern to them and is affecting their well being. The Counseling Centre offers a broad range of services including individual therapy, group therapy, as well as medication, assessment and management.\n\n
+                        In addition to these, counseling center provides a range of programs to promote mental health, emotional resilience and wellness throughout the campus community. Our staffs members interact with students during orientation, conduct sensitization programs and theme-focused short-term group sessions, and are in consultation with faculty and staff in every academic department of the Institute. The Counseling Centre with Student Coordinators to address suicide prevention and effectively deal with stressors on campus.</string>
+    <string name="c31"> Swachh Bharat Abhiyan is a national level Abhiyan by the Government of India covering 4041 statutory towns to clean the streets, roads and infrastructure of the country; launched on 2 October 2014 at Rajghat, New Delhi, where Prime Minister Narendra Modi himself wielded broom and cleaned a road. The Abhiyan is India\'s biggest ever cleanliness drive and 3 million government employees and schools and colleges students of India participated in this event. The mission was started by Narendra Modi, the Prime Minister of India, nominating nine famous personalities for this Abhiyan, and they take up the challenge and nominate nine more people and so on.\n\n
+                        In pursuant to the vision of Swachh Bharat Abhiyan, Gandhi Institute for Education and Technology (GIET) has launched the special cleanliness drive and has formally constituted a committee to monitor and coordinate cleanliness activities in the college. The broad plan of action will be as follows:\n\n
+                        1.Generating mass awareness on cleanliness and hygiene amongst students and staff members by holding regular ‘Sensitization Programmes’ on ‘Swachh Bharat Abhiyan’ so as to motivate them to contribute to this Campaign in a proactive manner.\n\n
+                        2.Activities under ‘Swachh Bharat Abhiyan’ will be a key component of all the community work being done by NSS volunteers of the college.\n\n
+                        3.Students and Teachers will regularly participate in the special cleanliness drive in the college campus on continuing basis.\n\n
+                        4.Events such as poster and slogan competitions, essay writing, poetry writing/ reciting, speeches, skits on ‘Swachh Bharat’ will be organized.\n\n
+                        5.Rallies on themes connected with ‘Swachh Bharat Abhiyan’ in and around the college campus will be conducted to create mass awareness on such issues.\n\n
+                        6.Eminent people will be invited to address students and staff members on issues connected with ‘Swachh Bharat Abhiyan’.\n\n
+                        7.Removal of all kind of waste material like broken furniture, unusable equipments etc and weeding out the old books and journals not in use from the library.\n\n
+                        8.Administration of the Mass pledge by students and staff members to maintain cleanliness of the college campus and its surrounding areas on regular basis.\n\n
+                        9.Conduct of workshop on the reuse and recycle of the waste material.\n\n
+                        10.Constitution of the subcommittee to conduct the regular inspection of the toilets, corridors and surrounding of college building.</string>
+    <string name="c32"> Dear Students,\n\n
+                        Hope all well!\n\n
+                        We welcome you to the GIET family, Baniatangi and wish you a very bright future ahead. We would like you to inform you that –\n\n
+
+                        “Ragging is totally banned in and around the College premises”.</string>
+    <string name="c33"> Aim and Objective of Anti-Ragging Committee:\n\n
+                        To prohibit any conduct by any student or students whether by words spoken or written or by an act which has the effect of teasing, treating or handling with rudeness a fresher or any other student, indulging in rowdy or indiscipline activities by any student or students which causes or is likely to cause annoyance, hardship or psychological harm or to raise fear or apprehension thereof in any fresher or any other student or asking any student to do any act which such student will not in the ordinary course do and which has the effect of causing or generating a sense of shame, or torment or embarrassment so as to adversely affect the physique or psyche of such fresher or any other student, with or without an intent to derive a sadistic pleasure or showing off power, authority or superiority by a student over any fresher or any other student. </string>
+    <string name="c34">  Anti Ragging Committee Members </string>
+    <string name="c35"> It is just our college instruction application which gives a short idea about our Institute. </string>
+    <string name="c36"> Version 1.0 </string>
+    <string name="c37"> Notices </string>
+    <string name="c38"> News &amp; Events </string>
+    <string name="c39"> Placement News </string>
+    <string name="c40"> Exam Notices </string>
+
+    <!-- Research & development -->
+    <string name="rnd1"> RESEARCH &amp; DEVELOPMENT </string>
+    <string name="rnd2"> A research study is a scientific way to improve or develop new methods of modern education. Research studies are important because they contribute to knowledge and progress on present technology and applications.\n\n
+                         Gandhi Institute for Education and Technology, Baniatangi is acclaimed for the quality and breadth of its research enterprise, and particularly for its openness to multidisciplinary research. Several highly rated initiatives represent tradition of cross-disciplinary research and collaboration. The Central Computing Facilities are also added facility for all students as well as faculty members of the institute to carry out their research activities centrally in one umbrella.\n\n
+                         Also research groupings associated with academics primarily focus on individual department but when there is a clear overlap in the research area between numbers of departments, may include academics from those departments.\n\n
+                         In this regard a forum named as GIET Forum has already been formed to focus in applied research and implementation as well as to find general background about the problem domains. Also various activities including training in class room setting, inviting speakers, hands on workshops/ conferences/seminars/ symposiums as well as student chapter activities have already been initiated. In this continuous quest for excellence in our research endeavours, we recognize the importance of modernization in infrastructure and experimental facilities. To ensure that we hold on to our position at the cutting edge of innovation, and our institute has set up several state of the art facilities. </string>
+    \n\n
+    <string name="rnd3"> ED Cell </string>
+    <string name="rnd4"> ED Cell was formed on 9th September, 2014 with the following strategic intent:\n\n
+
+                        (1) Producing successful entrepreneurs imbibed with leadership qualities using innovative and ethical business practices to make global impact.\n\n
+                        (2) Instill the passion and spirit among students to pursue entrepreneurship.\n\n
+                        *   Long Term Goals (5 Years)\n\n\n
+                        (3) Motivate students to develop their own startups\n\n
+                        (4) Develop business incubators\n\n
+                        (5) Create corpus fund to seed ventures\n\n
+                        *   Short Term Goals (2 Years)\n\n\n
+                        (6) To provide a platform for interaction with entrepreneurs\n\n
+                        (7) Impart entrepreneurial education/skills amongst students through various trainings and exercise.\n\n
+                        (8) Arrange vibrant interaction with organizations promoting the cause of entrepreneurship.\n\n
+                        Organization Structure of EDC:\n\n
+                            Chairman: Prof.(Dr.) S.K Mishra\n\n
+                            Convener : Prof. Chandan Kumar Sethi, Asst. Prof,  Mechanical Engg\n\n
+                            Faculty Secretary: Prof. (Dr.) Pritinika Behera, H.O.D, Mechanical Engg\n\n
+                            Faculty Treasurer: Prof. Nirmalendu Hota, Asst. Prof,  Mechanical Engg\n\n
+                        Faculty Advisers:\n\n
+                            1.       Prof.  P.K. Sahu, HOD Electrical Engg.\n\n
+                            2.       Prof. Neelamani Samal, Asst. Prof,  CSE Engg\n\n
+                        Students Core Committee: Students are selected from 2nd , 3rd and 4th year of B-Tech Program to the core community. </string>
+    <string name="rnd5"> INNOVATION CELL </string>
+    <string name="rnd6"> A design and engineering center that enables students GIET to come together to develop technological innovations and participate in competitions of  national and international level. \n\n
+                        As per the guideline of MHRD Innovation Cell (MIC) , Institution’s Innovation Council (IIC)has been constituted in our institution, under the Presidentship of Dr. Sambit Kumar Mishra. As institution, we are committed to support activities suggested by MIC as per the prescribed schedule and timelines. Please find below the details regarding council members. </string>
+    <string name="rnd7"> SKILL DEVELOPMENT </string>
+    <string name="rnd8"> In today\'s age of globalisation and technological volatility, skill building is an important instrument to increase the efficacy and quality of labour for improved productivity and economic growth. It is a powerful tool to empower individuals and improve their social acceptance. As the name implies, skill development is the process of identifying skill gaps of students and developing these skills. It is of course important because their skills will determine their ability to execute their plans with success.\n\n
+                         In this regard, Gandhi Institute for Education and Technology introduced the training and skills development programs to ensure that case managed individuals, whose employment action plans identify skill development as being necessary will assist them in achieving their goal. In a constantly changing environment, the practical exposure may be essential part of being able to meet the challenges of everyday life.  </string>
+    <string name="rnd9"> R &amp; D Initiatives </string>
+    <string name="rnd10">  Initiatives for Students:\n\n
+                            1. Students are encouraged to participate in workshops, seminars, paper presentation and project competitions.\n\n
+                            2. They are motivated to undertake both in house and industry based projects.\n\n
+                            3. Guest lectures, workshops and industrial visits are regularly arranged to focus on thrust areas.\n\n
+                            4. Financial assistance is provided for publishing the paper in a peer reviewed journal.\n\n
+                            5. Financial assistance for developing the experimental setups for the innovative/socially relevant project work.\n\n
+                            6. Students are encouraged to submit research proposal under student project scheme to external funding agencies on the topic of their project work.
+                           Initiatives for Faculty:\n\n
+                            1. Financial assistance in terms of registration fees, TA/DA, etc for participation in National &amp; International conferences (India and Abroad), Workshops, Seminars, FDP, etc.\n\n
+                            2. Faculty members are sponsored for pursuing higher studies.\n\n
+                            3. Incentives for publishing papers in refereed impact factor journals.\n\n
+                            4. Incentive to faculty for receiving research grant from external funding agencies of Govt. of India.\n\n
+                            5. Faculty members are encouraged for interacting with the outside world such as chairing technical session/invitation as keynote speaker in National/International Conferences, Seminar, Workshop and Guest lecture.\n\n
+                                 Management extends full supports for the fund required for procuring facilities to do the research. Research Activities in Departments:\n\n
+                            1. Funded Projects\n\n
+                            2. Students Projects\n\n
+                            3. Conferences/Seminars/Workshops/FDP/Summer/Winter Schools Organized Academic Research.</string>
+    <string name="rnd11"> CAMPUS </string>
+    <string name="rnd12"> Campus:\n\n
+                          Gandhi Institute For Education &amp; Technology\n
+                          Baniatangi, Po: Bajapur, Khordha, Odisha\n
+                          Pin - 752060\n
+                          Phone No : +91-6755-243603\n
+                          Fax: 06755-243601 </string>
+    <string name="rnd13"> ADMINISTRATIVE OFFICE </string>
+    <string name="rnd14"> Administrative Office:\n\n
+                          Gandhi Institute For Education &amp; Technology\n
+                          HIG-33, Near PAL Heights, Jayadev Vihar\n
+                          Bhubaneswar, Odisha\n
+                          Pin - 751013\n
+                          Phone No: +91-9937860139  </string>
+    <string name="rnd15"> CAMPUS LOCATION </string>
+    <string name="google_place_api">  </string>
+
+
+</resources>
