@@ -6,7 +6,7 @@ College guide system is an integrated android application that handles various a
 
 Andorid, Java, XML, SQLite, Firebase login
 
-### Tools & Technology Used 
+### Tools & Technology Used :
 
 Android Studio, Notepad++, Figma (UI/UX Design), Eclipse
 
